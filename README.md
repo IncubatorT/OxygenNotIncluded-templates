@@ -1,0 +1,2 @@
+# OxygenNotIncluded-templates
+用于游戏内Debug模式的一些常用模块的模板yaml文件
