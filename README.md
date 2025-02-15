@@ -32,4 +32,5 @@
 
 ## License
 
-Unlicense License
+本仓库的.yaml文件由游戏程序直接生成，遵循klei的相关许可，在不冲突的前提下我对这些文件使用Unlicense License进行许可。
+对于其他文本内容或整体内容的转载请注明本仓库原始链接。
