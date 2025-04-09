@@ -114,27 +114,27 @@ cells:
   location_y: -6
 - element: Gold
   mass: 100
-  temperature: 24.3849602
+  temperature: 18.4901447
   location_x: -13
   location_y: -6
 - element: Gold
   mass: 100
-  temperature: 24.4098549
+  temperature: 18.4916248
   location_x: -12
   location_y: -6
 - element: Gold
   mass: 100
-  temperature: 24.4262829
+  temperature: 18.4928665
   location_x: -11
   location_y: -6
 - element: Gold
   mass: 100
-  temperature: 24.4932823
+  temperature: 18.4971161
   location_x: -10
   location_y: -6
 - element: Gold
   mass: 100
-  temperature: 24.5552979
+  temperature: 18.5024185
   location_x: -9
   location_y: -6
 - element: IgneousRock
@@ -214,7 +214,7 @@ cells:
   location_y: -5
 - element: Gold
   mass: 100
-  temperature: 24.3451118
+  temperature: 18.4895782
   location_x: -13
   location_y: -5
 - element: Vacuum
@@ -228,7 +228,7 @@ cells:
   location_y: -5
 - element: Gold
   mass: 100
-  temperature: 24.5787315
+  temperature: 18.5038681
   location_x: -9
   location_y: -5
 - element: IgneousRock
@@ -352,7 +352,7 @@ cells:
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 24.3219471
+  temperature: 18.4883518
   location_x: -13
   location_y: -4
 - element: Vacuum
@@ -366,7 +366,7 @@ cells:
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 24.5935669
+  temperature: 18.5043411
   location_x: -9
   location_y: -4
 - element: Vacuum
@@ -374,111 +374,111 @@ cells:
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 29.5695496
+  temperature: 40.5340729
   location_x: -7
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 30.5274239
+  temperature: 41.4971771
   location_x: -6
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 31.4851093
+  temperature: 42.4597321
   location_x: -5
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 32.4427872
+  temperature: 43.4217377
   location_x: -4
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 33.400692
+  temperature: 44.3833084
   location_x: -3
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 34.3590889
+  temperature: 45.1731415
   location_x: -2
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 35.3181992
+  temperature: 46.3053589
   location_x: -1
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 36.2781067
+  temperature: 47.0935135
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 37.2387238
+  temperature: 48.2196121
   location_x: 1
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 38.1998138
+  temperature: 49.001873
   location_x: 2
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 39.1611252
+  temperature: 50.1381836
   location_x: 3
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 40.1224976
+  temperature: 50.9576149
   location_x: 4
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 41.0840149
+  temperature: 52.1805763
   location_x: 5
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 42.0465126
+  temperature: 53.0609131
   location_x: 6
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 43.0122108
+  temperature: 54.3520775
   location_x: 7
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 43.9834099
+  temperature: 55.4282951
   location_x: 8
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 44.9579506
+  temperature: 56.3766022
   location_x: 9
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 46.0986099
+  temperature: 57.7654457
   location_x: 10
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 46.8891678
+  temperature: 58.3560181
   location_x: 11
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 48.1086655
+  temperature: 57.7234497
   location_x: 12
   location_y: -4
 - element: Gold
   mass: 100
-  temperature: 48.729538
+  temperature: 56.8401947
   location_x: 13
   location_y: -4
 - element: IgneousRock
   mass: 400
-  temperature: 270.286835
+  temperature: 270.256073
   location_x: 14
   location_y: -4
 - element: IgneousRock
@@ -488,7 +488,7 @@ cells:
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 24.3113861
+  temperature: 18.4891987
   location_x: -13
   location_y: -3
 - element: Vacuum
@@ -508,111 +508,111 @@ cells:
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 30.3925858
+  temperature: 40.8345184
   location_x: -7
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 31.3413429
+  temperature: 41.7946663
   location_x: -6
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 32.2903519
+  temperature: 42.7556686
   location_x: -5
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 33.2400856
+  temperature: 43.7155914
   location_x: -4
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 34.1909218
+  temperature: 44.6730804
   location_x: -3
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 35.1431503
+  temperature: 45.6283531
   location_x: -2
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 36.0969849
+  temperature: 46.5834351
   location_x: -1
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 37.0525284
+  temperature: 47.5497665
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 38.009758
+  temperature: 48.3704758
   location_x: 1
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 38.9684334
+  temperature: 49.6409225
   location_x: 2
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 39.9280853
+  temperature: 50.530838
   location_x: 3
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 40.8878632
+  temperature: 51.8166351
   location_x: 4
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 41.6757965
+  temperature: 52.7244911
   location_x: 5
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 42.8031082
+  temperature: 54.0424271
   location_x: 6
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 43.5861511
+  temperature: 55.0021439
   location_x: 7
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 44.7063217
+  temperature: 56.1427841
   location_x: 8
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 45.4885483
+  temperature: 57.307827
   location_x: 9
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 46.6253891
+  temperature: 58.3468857
   location_x: 10
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 47.7916756
+  temperature: 59.4412155
   location_x: 11
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 48.5809212
+  temperature: 58.5366592
   location_x: 12
   location_y: -3
 - element: Gold
   mass: 100
-  temperature: 49.7211456
+  temperature: 57.608429
   location_x: 13
   location_y: -3
 - element: IgneousRock
   mass: 400
-  temperature: 269.02063
+  temperature: 268.932373
   location_x: 14
   location_y: -3
 - element: IgneousRock
@@ -716,22 +716,18 @@ cells:
   location_y: -2
 - element: IgneousRock
   mass: 400
-  temperature: 268.428253
+  temperature: 268.401886
   location_x: 8
   location_y: -2
 - element: IgneousRock
   mass: 400
-  temperature: 268.064117
+  temperature: 267.991425
   location_x: 9
   location_y: -2
-- element: IgneousRock
-  mass: 400
-  temperature: 23.8922596
+- element: Vacuum
   location_x: 10
   location_y: -2
-- element: IgneousRock
-  mass: 400
-  temperature: 23.8327675
+- element: Vacuum
   location_x: 11
   location_y: -2
 - element: Vacuum
@@ -742,7 +738,7 @@ cells:
   location_y: -2
 - element: IgneousRock
   mass: 400
-  temperature: 270.852814
+  temperature: 270.429138
   location_x: 14
   location_y: -2
 - element: IgneousRock
@@ -758,81 +754,81 @@ cells:
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2468948
+  temperature: 18.5467644
   location_x: -11
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2468548
+  temperature: 18.5467949
   location_x: -10
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2466316
+  temperature: 18.5468597
   location_x: -9
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2466278
+  temperature: 18.5469608
   location_x: -8
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2465477
+  temperature: 18.5471153
   location_x: -7
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.246479
+  temperature: 18.5472279
   location_x: -6
   location_y: -1
 - element: Diamond
   mass: 100
-  temperature: 16.2465115
+  temperature: 18.5474129
   location_x: -5
   location_y: -1
 - element: IgneousRock
   mass: 400
-  temperature: 67.685112
+  temperature: 67.6512527
   location_x: -4
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 305.57019
+  temperature: 306.01001
   location_x: -3
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 305.493835
+  temperature: 306.134979
   location_x: -2
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 304.600494
+  temperature: 305.147919
   location_x: -1
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 304.621429
+  temperature: 304.881104
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 303.862
+  temperature: 303.976654
   location_x: 1
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 303.587433
+  temperature: 303.950653
   location_x: 2
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 302.602875
+  temperature: 303.041412
   location_x: 3
   location_y: -1
 - element: Cobalt
   mass: 100
-  temperature: 301.751404
+  temperature: 302.093933
   location_x: 4
   location_y: -1
 - element: Cobalt
@@ -847,45 +843,41 @@ cells:
   location_y: -1
 - element: IgneousRock
   mass: 400
-  temperature: 293.149994
+  temperature: 293.119415
   location_x: 7
   location_y: -1
 - element: Vacuum
   location_x: 8
   location_y: -1
-- element: IgneousRock
-  mass: 400
-  temperature: 23.8179913
+- element: Vacuum
   location_x: 9
   location_y: -1
 - element: LiquidHydrogen
-  mass: 900.121887
-  temperature: 17.5087261
+  mass: 512.118652
+  temperature: 18.1051426
   location_x: 10
   location_y: -1
 - element: LiquidHydrogen
-  mass: 900.160156
-  temperature: 17.5017452
+  mass: 512.079285
+  temperature: 18.5868359
   location_x: 11
   location_y: -1
 - element: LiquidHydrogen
-  mass: 900.186035
-  temperature: 17.4817352
+  mass: 512.039917
+  temperature: 18.9876747
   location_x: 12
   location_y: -1
-- element: LiquidHydrogen
-  mass: 900.224304
-  temperature: 17.4834824
+- element: Vacuum
   location_x: 13
   location_y: -1
 - element: IgneousRock
   mass: 400
-  temperature: 23.9864769
+  temperature: 281.38797
   location_x: 14
   location_y: -1
 - element: IgneousRock
   mass: 400
-  temperature: 271.153961
+  temperature: 271.134735
   location_x: -14
 - element: Vacuum
   location_x: -13
@@ -905,60 +897,60 @@ cells:
   location_x: -6
 - element: Diamond
   mass: 100
-  temperature: 16.2467709
+  temperature: 18.5476799
   location_x: -5
 - element: IgneousRock
   mass: 400
-  temperature: 315.546936
+  temperature: 315.140625
   location_x: -4
 - element: Water
-  mass: 200.159271
-  temperature: 306.570282
+  mass: 182.156982
+  temperature: 307.004059
   location_x: -3
 - element: Water
-  mass: 200.123672
-  temperature: 305.587708
+  mass: 182.121887
+  temperature: 306.135529
   location_x: -2
 - element: Water
-  mass: 200.088409
-  temperature: 305.588196
+  mass: 182.087143
+  temperature: 306.1362
   location_x: -1
 - element: Water
-  mass: 200.051849
-  temperature: 305.613434
+  mass: 182.051117
+  temperature: 305.854706
 - element: Water
-  mass: 200.013123
-  temperature: 304.617828
+  mass: 182.012939
+  temperature: 304.932556
   location_x: 1
 - element: Water
-  mass: 199.986877
-  temperature: 304.48877
+  mass: 181.987076
+  temperature: 304.932587
   location_x: 2
 - element: Water
-  mass: 199.948151
-  temperature: 303.588867
+  mass: 181.948898
+  temperature: 303.973999
   location_x: 3
 - element: Water
-  mass: 199.911606
-  temperature: 302.653564
+  mass: 181.912872
+  temperature: 303.068115
   location_x: 4
 - element: Water
-  mass: 199.876328
-  temperature: 301.721832
+  mass: 181.878082
+  temperature: 302.141266
   location_x: 5
 - element: Water
-  mass: 199.840744
-  temperature: 300.765839
+  mass: 181.842987
+  temperature: 301.202606
   location_x: 6
 - element: IgneousRock
   mass: 400
   temperature: 373.302155
   location_x: 7
-- element: Vacuum
-  location_x: 8
 - element: IgneousRock
   mass: 400
-  temperature: 23.8222198
+  temperature: 293.075165
+  location_x: 8
+- element: Vacuum
   location_x: 9
 - element: Vacuum
   location_x: 10
@@ -968,7 +960,9 @@ cells:
   location_x: 12
 - element: Vacuum
   location_x: 13
-- element: Vacuum
+- element: IgneousRock
+  mass: 400
+  temperature: 289.878326
   location_x: 14
 - element: IgneousRock
   mass: 400
@@ -977,32 +971,32 @@ cells:
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2681007
+  temperature: 18.5462341
   location_x: -13
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2483101
+  temperature: 18.5467186
   location_x: -12
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2468987
+  temperature: 18.5467644
   location_x: -11
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2469234
+  temperature: 18.5467949
   location_x: -10
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2466316
+  temperature: 18.5468597
   location_x: -9
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2465439
+  temperature: 18.5469913
   location_x: -8
   location_y: 1
 - element: Vacuum
@@ -1013,12 +1007,12 @@ cells:
   location_y: 1
 - element: Diamond
   mass: 100
-  temperature: 16.2467709
+  temperature: 18.5476799
   location_x: -5
   location_y: 1
 - element: IgneousRock
   mass: 400
-  temperature: 315.905121
+  temperature: 315.49881
   location_x: -4
   location_y: 1
 - element: Vacuum
@@ -1060,7 +1054,7 @@ cells:
   location_y: 1
 - element: IgneousRock
   mass: 400
-  temperature: 163.453522
+  temperature: 163.272537
   location_x: 9
   location_y: 1
 - element: Vacuum
@@ -1075,7 +1069,9 @@ cells:
 - element: Vacuum
   location_x: 13
   location_y: 1
-- element: Vacuum
+- element: IgneousRock
+  mass: 400
+  temperature: 292.019104
   location_x: 14
   location_y: 1
 - element: IgneousRock
@@ -1095,7 +1091,7 @@ cells:
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 38.6840668
+  temperature: 38.6586723
   location_x: -11
   location_y: 2
 - element: IgneousRock
@@ -1110,76 +1106,76 @@ cells:
   location_y: 2
 - element: Diamond
   mass: 100
-  temperature: 16.246315
+  temperature: 18.5472126
   location_x: -8
   location_y: 2
 - element: Diamond
   mass: 100
-  temperature: 16.2464638
+  temperature: 18.5473595
   location_x: -7
   location_y: 2
 - element: Diamond
   mass: 100
-  temperature: 16.2464638
+  temperature: 18.5473595
   location_x: -6
   location_y: 2
 - element: Diamond
   mass: 100
-  temperature: 16.2467079
+  temperature: 18.5476055
   location_x: -5
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 53.9647865
+  temperature: 53.9478569
   location_x: -4
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 275.308136
+  temperature: 275.581848
   location_x: -3
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 275.303864
+  temperature: 275.578705
   location_x: -2
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 275.303406
+  temperature: 275.578339
   location_x: -1
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 275.301544
+  temperature: 275.576843
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 275.299164
+  temperature: 275.574829
   location_x: 1
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 276.657501
+  temperature: 276.860565
   location_x: 2
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 276.670349
+  temperature: 276.871918
   location_x: 3
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 276.671967
+  temperature: 276.873291
   location_x: 4
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 276.671173
+  temperature: 276.87262
   location_x: 5
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 276.666809
+  temperature: 276.868958
   location_x: 6
   location_y: 2
 - element: IgneousRock
@@ -1197,27 +1193,27 @@ cells:
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 247.273087
+  temperature: 247.011475
   location_x: 10
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 225.549408
+  temperature: 225.317215
   location_x: 11
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 244.653488
+  temperature: 244.40123
   location_x: 12
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 247.037033
+  temperature: 246.762283
   location_x: 13
   location_y: 2
 - element: IgneousRock
   mass: 400
-  temperature: 254.39064
+  temperature: 254.078644
   location_x: 14
   location_y: 2
 - element: Vacuum
@@ -1240,22 +1236,22 @@ cells:
   location_y: 3
 - element: IgneousRock
   mass: 400
-  temperature: 38.7993736
+  temperature: 38.7739792
   location_x: -8
   location_y: 3
 - element: IgneousRock
   mass: 400
-  temperature: 80.4540634
+  temperature: 80.4427872
   location_x: -7
   location_y: 3
 - element: IgneousRock
   mass: 400
-  temperature: 80.2308578
+  temperature: 80.2206955
   location_x: -6
   location_y: 3
 - element: IgneousRock
   mass: 400
-  temperature: 80.0768661
+  temperature: 80.06707
   location_x: -5
   location_y: 3
 - element: IgneousRock
@@ -1264,52 +1260,52 @@ cells:
   location_x: -4
   location_y: 3
 - element: CrudeOil
-  mass: 152.373535
-  temperature: 277.633911
+  mass: 132.676682
+  temperature: 277.647095
   location_x: -3
   location_y: 3
 - element: CrudeOil
-  mass: 152.740448
-  temperature: 277.634064
+  mass: 132.766464
+  temperature: 277.646698
   location_x: -2
   location_y: 3
 - element: CrudeOil
-  mass: 153.103119
-  temperature: 277.634033
+  mass: 133.126862
+  temperature: 277.647186
   location_x: -1
   location_y: 3
 - element: CrudeOil
-  mass: 153.475479
-  temperature: 277.634003
+  mass: 133.36853
+  temperature: 277.646759
   location_y: 3
 - element: CrudeOil
-  mass: 153.867493
-  temperature: 277.634094
+  mass: 133.722839
+  temperature: 277.646698
   location_x: 1
   location_y: 3
 - element: CrudeOil
-  mass: 154.132477
-  temperature: 278.604675
+  mass: 134.101349
+  temperature: 278.34198
   location_x: 2
   location_y: 3
 - element: CrudeOil
-  mass: 154.524506
-  temperature: 278.604736
+  mass: 134.497604
+  temperature: 278.341888
   location_x: 3
   location_y: 3
 - element: CrudeOil
-  mass: 154.896866
-  temperature: 278.60495
+  mass: 134.87674
+  temperature: 278.342285
   location_x: 4
   location_y: 3
 - element: CrudeOil
-  mass: 155.259521
-  temperature: 278.604462
+  mass: 135.236389
+  temperature: 278.341888
   location_x: 5
   location_y: 3
 - element: CrudeOil
-  mass: 155.62645
-  temperature: 278.604675
+  mass: 135.62645
+  temperature: 278.341827
   location_x: 6
   location_y: 3
 - element: IgneousRock
@@ -1809,393 +1805,393 @@ buildings:
   location_x: -12
   location_y: 1
   element: Diamond
-  temperature: 16.2483101
+  temperature: 18.5467186
 - id: GlassTile
   location_x: -11
   location_y: 1
   element: Diamond
-  temperature: 16.2468987
+  temperature: 18.5467644
 - id: GlassTile
   location_x: -10
   location_y: 1
   element: Diamond
-  temperature: 16.2469234
+  temperature: 18.5467949
 - id: GlassTile
   location_x: -9
   location_y: 1
   element: Diamond
-  temperature: 16.2466316
+  temperature: 18.5468597
 - id: GlassTile
   location_x: -8
   location_y: 1
   element: Diamond
-  temperature: 16.2465439
+  temperature: 18.5469913
 - id: GlassTile
   location_x: -6
   location_y: -1
   element: Diamond
-  temperature: 16.246479
+  temperature: 18.5472279
 - id: GlassTile
   location_x: -7
   location_y: -1
   element: Diamond
-  temperature: 16.2465477
+  temperature: 18.5471153
 - id: GlassTile
   location_x: -8
   location_y: -1
   element: Diamond
-  temperature: 16.2466278
+  temperature: 18.5469608
 - id: GlassTile
   location_x: -9
   location_y: -1
   element: Diamond
-  temperature: 16.2466316
+  temperature: 18.5468597
 - id: GlassTile
   location_x: -10
   location_y: -1
   element: Diamond
-  temperature: 16.2468548
+  temperature: 18.5467949
 - id: GlassTile
   location_x: -11
   location_y: -1
   element: Diamond
-  temperature: 16.2468948
+  temperature: 18.5467644
 - id: GlassTile
   location_x: -7
   location_y: 2
   element: Diamond
-  temperature: 16.2464638
+  temperature: 18.5473595
 - id: GlassTile
   location_x: -6
   location_y: 2
   element: Diamond
-  temperature: 16.2464638
+  temperature: 18.5473595
 - id: GlassTile
   location_x: -5
   location_y: 1
   element: Diamond
-  temperature: 16.2467709
+  temperature: 18.5476799
 - id: GlassTile
   location_x: -5
   element: Diamond
-  temperature: 16.2467709
+  temperature: 18.5476799
 - id: GlassTile
   location_x: -5
   location_y: -1
   element: Diamond
-  temperature: 16.2465115
+  temperature: 18.5474129
 - id: GlassTile
   location_x: -5
   location_y: 2
   element: Diamond
-  temperature: 16.2467079
+  temperature: 18.5476055
 - id: GlassTile
   location_x: -8
   location_y: 2
   element: Diamond
-  temperature: 16.246315
+  temperature: 18.5472126
 - id: GlassTile
   location_x: -13
   location_y: 1
   element: Diamond
-  temperature: 16.2681007
+  temperature: 18.5462341
 - id: MetalTile
   location_x: -13
   location_y: -6
   element: Gold
-  temperature: 24.3849602
+  temperature: 18.4901447
 - id: MetalTile
   location_x: -12
   location_y: -6
   element: Gold
-  temperature: 24.4098549
+  temperature: 18.4916248
 - id: MetalTile
   location_x: -11
   location_y: -6
   element: Gold
-  temperature: 24.4262829
+  temperature: 18.4928665
 - id: MetalTile
   location_x: -10
   location_y: -6
   element: Gold
-  temperature: 24.4932823
+  temperature: 18.4971161
 - id: MetalTile
   location_x: -9
   location_y: -6
   element: Gold
-  temperature: 24.5552979
+  temperature: 18.5024185
 - id: MetalTile
   location_x: -9
   location_y: -5
   element: Gold
-  temperature: 24.5787315
+  temperature: 18.5038681
 - id: MetalTile
   location_x: -9
   location_y: -4
   element: Gold
-  temperature: 24.5935669
+  temperature: 18.5043411
 - id: MetalTile
   location_x: -13
   location_y: -3
   element: Gold
-  temperature: 24.3113861
+  temperature: 18.4891987
 - id: MetalTile
   location_x: -13
   location_y: -4
   element: Gold
-  temperature: 24.3219471
+  temperature: 18.4883518
 - id: MetalTile
   location_x: -13
   location_y: -5
   element: Gold
-  temperature: 24.3451118
+  temperature: 18.4895782
 - id: MetalTile
   location_x: -7
   location_y: -3
   element: Gold
-  temperature: 30.3925858
+  temperature: 40.8345184
 - id: MetalTile
   location_x: -6
   location_y: -3
   element: Gold
-  temperature: 31.3413429
+  temperature: 41.7946663
 - id: MetalTile
   location_x: -5
   location_y: -3
   element: Gold
-  temperature: 32.2903519
+  temperature: 42.7556686
 - id: MetalTile
   location_x: -4
   location_y: -3
   element: Gold
-  temperature: 33.2400856
+  temperature: 43.7155914
 - id: MetalTile
   location_x: -3
   location_y: -3
   element: Gold
-  temperature: 34.1909218
+  temperature: 44.6730804
 - id: MetalTile
   location_x: -2
   location_y: -3
   element: Gold
-  temperature: 35.1431503
+  temperature: 45.6283531
 - id: MetalTile
   location_x: -1
   location_y: -3
   element: Gold
-  temperature: 36.0969849
+  temperature: 46.5834351
 - id: MetalTile
   location_y: -3
   element: Gold
-  temperature: 37.0525284
+  temperature: 47.5497665
 - id: MetalTile
   location_x: 1
   location_y: -3
   element: Gold
-  temperature: 38.009758
+  temperature: 48.3704758
 - id: MetalTile
   location_x: 2
   location_y: -3
   element: Gold
-  temperature: 38.9684334
+  temperature: 49.6409225
 - id: MetalTile
   location_x: 3
   location_y: -3
   element: Gold
-  temperature: 39.9280853
+  temperature: 50.530838
 - id: MetalTile
   location_x: 4
   location_y: -3
   element: Gold
-  temperature: 40.8878632
+  temperature: 51.8166351
 - id: MetalTile
   location_x: 5
   location_y: -3
   element: Gold
-  temperature: 41.6757965
+  temperature: 52.7244911
 - id: MetalTile
   location_x: 6
   location_y: -3
   element: Gold
-  temperature: 42.8031082
+  temperature: 54.0424271
 - id: MetalTile
   location_x: 7
   location_y: -3
   element: Gold
-  temperature: 43.5861511
+  temperature: 55.0021439
 - id: MetalTile
   location_x: 8
   location_y: -3
   element: Gold
-  temperature: 44.7063217
+  temperature: 56.1427841
 - id: MetalTile
   location_x: 9
   location_y: -3
   element: Gold
-  temperature: 45.4885483
+  temperature: 57.307827
 - id: MetalTile
   location_x: 10
   location_y: -3
   element: Gold
-  temperature: 46.6253891
+  temperature: 58.3468857
 - id: MetalTile
   location_x: 11
   location_y: -3
   element: Gold
-  temperature: 47.7916756
+  temperature: 59.4412155
 - id: MetalTile
   location_x: 12
   location_y: -3
   element: Gold
-  temperature: 48.5809212
+  temperature: 58.5366592
 - id: MetalTile
   location_x: 12
   location_y: -4
   element: Gold
-  temperature: 48.1086655
+  temperature: 57.7234497
 - id: MetalTile
   location_x: 11
   location_y: -4
   element: Gold
-  temperature: 46.8891678
+  temperature: 58.3560181
 - id: MetalTile
   location_x: 10
   location_y: -4
   element: Gold
-  temperature: 46.0986099
+  temperature: 57.7654457
 - id: MetalTile
   location_x: 9
   location_y: -4
   element: Gold
-  temperature: 44.9579506
+  temperature: 56.3766022
 - id: MetalTile
   location_x: 8
   location_y: -4
   element: Gold
-  temperature: 43.9834099
+  temperature: 55.4282951
 - id: MetalTile
   location_x: 7
   location_y: -4
   element: Gold
-  temperature: 43.0122108
+  temperature: 54.3520775
 - id: MetalTile
   location_x: 6
   location_y: -4
   element: Gold
-  temperature: 42.0465126
+  temperature: 53.0609131
 - id: MetalTile
   location_x: 5
   location_y: -4
   element: Gold
-  temperature: 41.0840149
+  temperature: 52.1805763
 - id: MetalTile
   location_x: 4
   location_y: -4
   element: Gold
-  temperature: 40.1224976
+  temperature: 50.9576149
 - id: MetalTile
   location_x: 3
   location_y: -4
   element: Gold
-  temperature: 39.1611252
+  temperature: 50.1381836
 - id: MetalTile
   location_x: 2
   location_y: -4
   element: Gold
-  temperature: 38.1998138
+  temperature: 49.001873
 - id: MetalTile
   location_x: 1
   location_y: -4
   element: Gold
-  temperature: 37.2387238
+  temperature: 48.2196121
 - id: MetalTile
   location_y: -4
   element: Gold
-  temperature: 36.2781067
+  temperature: 47.0935135
 - id: MetalTile
   location_x: -1
   location_y: -4
   element: Gold
-  temperature: 35.3181992
+  temperature: 46.3053589
 - id: MetalTile
   location_x: -2
   location_y: -4
   element: Gold
-  temperature: 34.3590889
+  temperature: 45.1731415
 - id: MetalTile
   location_x: -3
   location_y: -4
   element: Gold
-  temperature: 33.400692
+  temperature: 44.3833084
 - id: MetalTile
   location_x: -4
   location_y: -4
   element: Gold
-  temperature: 32.4427872
+  temperature: 43.4217377
 - id: MetalTile
   location_x: -5
   location_y: -4
   element: Gold
-  temperature: 31.4851093
+  temperature: 42.4597321
 - id: MetalTile
   location_x: -6
   location_y: -4
   element: Gold
-  temperature: 30.5274239
+  temperature: 41.4971771
 - id: MetalTile
   location_x: -7
   location_y: -4
   element: Gold
-  temperature: 29.5695496
+  temperature: 40.5340729
 - id: MetalTile
   location_x: 13
   location_y: -4
   element: Gold
-  temperature: 48.729538
+  temperature: 56.8401947
 - id: MetalTile
   location_x: 13
   location_y: -3
   element: Gold
-  temperature: 49.7211456
+  temperature: 57.608429
 - id: MetalTile
   location_x: -3
   location_y: -1
   element: Cobalt
-  temperature: 305.57019
+  temperature: 306.01001
 - id: MetalTile
   location_x: -2
   location_y: -1
   element: Cobalt
-  temperature: 305.493835
+  temperature: 306.134979
 - id: MetalTile
   location_x: -1
   location_y: -1
   element: Cobalt
-  temperature: 304.600494
+  temperature: 305.147919
 - id: MetalTile
   location_y: -1
   element: Cobalt
-  temperature: 304.621429
+  temperature: 304.881104
 - id: MetalTile
   location_x: 1
   location_y: -1
   element: Cobalt
-  temperature: 303.862
+  temperature: 303.976654
 - id: MetalTile
   location_x: 2
   location_y: -1
   element: Cobalt
-  temperature: 303.587433
+  temperature: 303.950653
 - id: MetalTile
   location_x: 3
   location_y: -1
   element: Cobalt
-  temperature: 302.602875
+  temperature: 303.041412
 - id: MetalTile
   location_x: 4
   location_y: -1
   element: Cobalt
-  temperature: 301.751404
+  temperature: 302.093933
 - id: MetalTile
   location_x: 5
   location_y: -1
@@ -2294,7 +2290,7 @@ buildings:
 - id: InsulationTile
   location_x: -14
   element: IgneousRock
-  temperature: 271.153961
+  temperature: 271.134735
 - id: InsulationTile
   location_x: -8
   location_y: -2
@@ -2324,21 +2320,21 @@ buildings:
   location_x: -4
   location_y: -1
   element: IgneousRock
-  temperature: 67.685112
+  temperature: 67.6512527
 - id: InsulationTile
   location_x: -4
   element: IgneousRock
-  temperature: 315.546936
+  temperature: 315.140625
 - id: InsulationTile
   location_x: -4
   location_y: 1
   element: IgneousRock
-  temperature: 315.905121
+  temperature: 315.49881
 - id: InsulationTile
   location_x: -4
   location_y: 2
   element: IgneousRock
-  temperature: 53.9647865
+  temperature: 53.9478569
 - id: InsulationTile
   location_x: -4
   location_y: 3
@@ -2348,22 +2344,22 @@ buildings:
   location_x: -5
   location_y: 3
   element: IgneousRock
-  temperature: 80.0768661
+  temperature: 80.06707
 - id: InsulationTile
   location_x: -6
   location_y: 3
   element: IgneousRock
-  temperature: 80.2308578
+  temperature: 80.2206955
 - id: InsulationTile
   location_x: -7
   location_y: 3
   element: IgneousRock
-  temperature: 80.4540634
+  temperature: 80.4427872
 - id: InsulationTile
   location_x: -8
   location_y: 3
   element: IgneousRock
-  temperature: 38.7993736
+  temperature: 38.7739792
 - id: InsulationTile
   location_x: -3
   location_y: -2
@@ -2422,22 +2418,12 @@ buildings:
   location_x: 8
   location_y: -2
   element: IgneousRock
-  temperature: 268.428253
+  temperature: 268.401886
 - id: InsulationTile
   location_x: 9
   location_y: -2
   element: IgneousRock
-  temperature: 268.064117
-- id: InsulationTile
-  location_x: 10
-  location_y: -2
-  element: IgneousRock
-  temperature: 23.8922596
-- id: InsulationTile
-  location_x: 11
-  location_y: -2
-  element: IgneousRock
-  temperature: 23.8327675
+  temperature: 267.991425
 - id: InsulationTile
   location_x: 13
   location_y: -5
@@ -2546,76 +2532,71 @@ buildings:
   location_x: 14
   location_y: -2
   element: IgneousRock
-  temperature: 270.852814
+  temperature: 270.429138
 - id: InsulationTile
   location_x: 14
   location_y: -3
   element: IgneousRock
-  temperature: 269.02063
+  temperature: 268.932373
 - id: InsulationTile
   location_x: 14
   location_y: -4
   element: IgneousRock
-  temperature: 270.286835
+  temperature: 270.256073
 - id: InsulationTile
   location_x: 14
   location_y: -5
   element: IgneousRock
   temperature: 270.361084
 - id: InsulationTile
-  location_x: 14
-  location_y: -1
-  element: IgneousRock
-  temperature: 23.9864769
-- id: InsulationTile
   location_x: -3
   location_y: 2
   element: IgneousRock
-  temperature: 275.308136
+  temperature: 275.581848
 - id: InsulationTile
   location_x: -2
   location_y: 2
   element: IgneousRock
-  temperature: 275.303864
+  temperature: 275.578705
 - id: InsulationTile
   location_x: -1
   location_y: 2
   element: IgneousRock
-  temperature: 275.303406
+  temperature: 275.578339
 - id: InsulationTile
   location_y: 2
   element: IgneousRock
-  temperature: 275.301544
+  temperature: 275.576843
 - id: InsulationTile
   location_x: 1
   location_y: 2
   element: IgneousRock
-  temperature: 275.299164
+  temperature: 275.574829
 - id: InsulationTile
   location_x: 2
   location_y: 2
   element: IgneousRock
-  temperature: 276.657501
+  temperature: 276.860565
 - id: InsulationTile
   location_x: 3
   location_y: 2
   element: IgneousRock
-  temperature: 276.670349
+  temperature: 276.871918
 - id: InsulationTile
   location_x: 4
   location_y: 2
   element: IgneousRock
-  temperature: 276.671967
+  temperature: 276.873291
 - id: InsulationTile
   location_x: 5
   location_y: 2
   element: IgneousRock
-  temperature: 276.671173
+  temperature: 276.87262
 - id: InsulationTile
   location_x: 6
   location_y: 2
   element: IgneousRock
-  temperature: 276.666809
+  temperature: 276.868958
 - id: InsulationTile
   location_x: 7
   location_y: 2
@@ -2708,7 +2689,7 @@ buildings:
   location_x: 7
   location_y: -1
   element: IgneousRock
-  temperature: 293.149994
+  temperature: 293.119415
 - id: InsulationTile
   location_x: 9
   location_y: 3
@@ -2723,16 +2704,7 @@ buildings:
   location_x: 9
   location_y: 1
   element: IgneousRock
-  temperature: 163.453522
-- id: InsulationTile
-  location_x: 9
-  element: IgneousRock
-  temperature: 23.8222198
-- id: InsulationTile
-  location_x: 9
-  location_y: -1
-  element: IgneousRock
-  temperature: 23.8179913
+  temperature: 163.272537
 - id: InsulationTile
   location_x: -9
   location_y: 2
@@ -2747,7 +2719,7 @@ buildings:
   location_x: -11
   location_y: 2
   element: IgneousRock
-  temperature: 38.6840668
+  temperature: 38.6586723
 - id: InsulationTile
   location_x: -12
   location_y: 2
@@ -2762,47 +2734,52 @@ buildings:
   location_x: 10
   location_y: 2
   element: IgneousRock
-  temperature: 247.273087
+  temperature: 247.011475
 - id: InsulationTile
   location_x: 11
   location_y: 2
   element: IgneousRock
-  temperature: 225.549408
+  temperature: 225.317215
 - id: InsulationTile
   location_x: 12
   location_y: 2
   element: IgneousRock
-  temperature: 244.653488
+  temperature: 244.40123
 - id: InsulationTile
   location_x: 13
   location_y: 2
   element: IgneousRock
-  temperature: 247.037033
+  temperature: 246.762283
 - id: InsulationTile
   location_x: 14
   location_y: 2
   element: IgneousRock
-  temperature: 254.39064
+  temperature: 254.078644
+- id: InsulationTile
+  location_x: 14
+  location_y: 1
+  element: IgneousRock
+  temperature: 292.019104
 - id: GasPermeableMembrane
   location_x: -9
   location_y: -3
   element: Cobaltite
-  temperature: 70.8493881
+  temperature: 23.3872433
 - id: GasPermeableMembrane
   location_x: 12
   location_y: -2
   element: Cobaltite
-  temperature: 89.4024963
+  temperature: 51.0303917
 - id: GasPermeableMembrane
   location_x: 13
   location_y: -2
   element: Cobaltite
-  temperature: 90.257637
+  temperature: 50.8095779
 - id: GasPermeableMembrane
   location_x: -13
   location_y: -2
   element: Cobaltite
-  temperature: 21.5770378
+  temperature: 19.8426285
 - id: GasPermeableMembrane
   location_x: -9
   location_y: -2
@@ -2840,6 +2817,418 @@ buildings:
   element: Cobaltite
   temperature: 293.149994
   rotationOrientation: R180
+- id: SolidConduit
+  location_x: -10
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5467911
+  connections: 3
+- id: SolidConduit
+  location_x: -9
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5468559
+  connections: 3
+- id: SolidConduit
+  location_x: -8
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.546957
+  connections: 3
+- id: SolidConduit
+  location_x: -7
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5471115
+  connections: 3
+- id: SolidConduit
+  location_x: -6
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5472221
+  connections: 1
+- id: SolidConduit
+  location_x: -11
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5467606
+  connections: 2
+- id: LiquidConduit
+  location_x: -10
+  location_y: -4
+  element: Cobaltite
+  temperature: 18.3016434
+  connections: 1
+- id: LiquidConduit
+  location_x: -11
+  location_y: -4
+  element: Cobaltite
+  temperature: 18.3034
+  connections: 6
+- id: LiquidConduit
+  location_x: -11
+  location_y: -3
+  element: Cobaltite
+  temperature: 18.3036976
+  connections: 8
+- id: LiquidConduit
+  location_x: -12
+  location_y: -3
+  element: Cobaltite
+  temperature: 18.3057194
+  connections: 12
+- id: LiquidConduit
+  location_x: -10
+  location_y: -3
+  element: Cobaltite
+  temperature: 18.3029118
+  connections: 2
+- id: LiquidConduit
+  location_x: -9
+  location_y: -3
+  element: Cobaltite
+  temperature: 17.4133759
+  connections: 3
+- id: LiquidConduit
+  location_x: -7
+  location_y: -3
+  element: Cobaltite
+  temperature: 40.8345184
+  connections: 3
+- id: LiquidConduit
+  location_x: -6
+  location_y: -3
+  element: Cobaltite
+  temperature: 41.7946663
+  connections: 3
+- id: LiquidConduit
+  location_x: -5
+  location_y: -3
+  element: Cobaltite
+  temperature: 42.7556686
+  connections: 3
+- id: LiquidConduit
+  location_x: -4
+  location_y: -3
+  element: Cobaltite
+  temperature: 43.7155914
+  connections: 3
+- id: LiquidConduit
+  location_x: -3
+  location_y: -3
+  element: Cobaltite
+  temperature: 44.6730804
+  connections: 3
+- id: LiquidConduit
+  location_x: -2
+  location_y: -3
+  element: Cobaltite
+  temperature: 45.6283531
+  connections: 3
+- id: LiquidConduit
+  location_x: -1
+  location_y: -3
+  element: Cobaltite
+  temperature: 46.5834351
+  connections: 3
+- id: LiquidConduit
+  location_y: -3
+  element: Cobaltite
+  temperature: 47.5497665
+  connections: 3
+- id: LiquidConduit
+  location_x: 1
+  location_y: -3
+  element: Cobaltite
+  temperature: 48.3704758
+  connections: 3
+- id: LiquidConduit
+  location_x: 2
+  location_y: -3
+  element: Cobaltite
+  temperature: 49.6409225
+  connections: 3
+- id: LiquidConduit
+  location_x: 3
+  location_y: -3
+  element: Cobaltite
+  temperature: 50.530838
+  connections: 3
+- id: LiquidConduit
+  location_x: 4
+  location_y: -3
+  element: Cobaltite
+  temperature: 51.8166351
+  connections: 3
+- id: LiquidConduit
+  location_x: 5
+  location_y: -3
+  element: Cobaltite
+  temperature: 52.7244911
+  connections: 3
+- id: LiquidConduit
+  location_x: 6
+  location_y: -3
+  element: Cobaltite
+  temperature: 54.0424271
+  connections: 3
+- id: LiquidConduit
+  location_x: 7
+  location_y: -3
+  element: Cobaltite
+  temperature: 55.0021439
+  connections: 3
+- id: LiquidConduit
+  location_x: 8
+  location_y: -3
+  element: Cobaltite
+  temperature: 56.1427841
+  connections: 3
+- id: LiquidConduit
+  location_x: 9
+  location_y: -3
+  element: Cobaltite
+  temperature: 57.307827
+  connections: 3
+- id: LiquidConduit
+  location_x: 10
+  location_y: -3
+  element: Cobaltite
+  temperature: 58.3468857
+  connections: 3
+- id: LiquidConduit
+  location_x: 11
+  location_y: -3
+  element: Cobaltite
+  temperature: 59.4412155
+  connections: 3
+- id: LiquidConduit
+  location_x: 12
+  location_y: -3
+  element: Cobaltite
+  temperature: 58.5366592
+  connections: 5
+- id: LiquidConduit
+  location_x: 12
+  location_y: -4
+  element: Cobaltite
+  temperature: 57.7234497
+  connections: 3
+- id: LiquidConduit
+  location_x: 11
+  location_y: -4
+  element: Cobaltite
+  temperature: 58.3560181
+  connections: 3
+- id: LiquidConduit
+  location_x: 10
+  location_y: -4
+  element: Cobaltite
+  temperature: 57.7654457
+  connections: 3
+- id: LiquidConduit
+  location_x: 9
+  location_y: -4
+  element: Cobaltite
+  temperature: 56.3766022
+  connections: 3
+- id: LiquidConduit
+  location_x: 8
+  location_y: -4
+  element: Cobaltite
+  temperature: 55.4282951
+  connections: 3
+- id: LiquidConduit
+  location_x: 7
+  location_y: -4
+  element: Cobaltite
+  temperature: 54.3520775
+  connections: 3
+- id: LiquidConduit
+  location_x: 6
+  location_y: -4
+  element: Cobaltite
+  temperature: 53.0609131
+  connections: 3
+- id: LiquidConduit
+  location_x: 5
+  location_y: -4
+  element: Cobaltite
+  temperature: 52.1805763
+  connections: 3
+- id: LiquidConduit
+  location_x: 4
+  location_y: -4
+  element: Cobaltite
+  temperature: 50.9576149
+  connections: 3
+- id: LiquidConduit
+  location_x: 3
+  location_y: -4
+  element: Cobaltite
+  temperature: 50.1381836
+  connections: 3
+- id: LiquidConduit
+  location_x: 2
+  location_y: -4
+  element: Cobaltite
+  temperature: 49.001873
+  connections: 3
+- id: LiquidConduit
+  location_x: 1
+  location_y: -4
+  element: Cobaltite
+  temperature: 48.2196121
+  connections: 3
+- id: LiquidConduit
+  location_y: -4
+  element: Cobaltite
+  temperature: 47.0935135
+  connections: 3
+- id: LiquidConduit
+  location_x: -1
+  location_y: -4
+  element: Cobaltite
+  temperature: 46.3053589
+  connections: 3
+- id: LiquidConduit
+  location_x: -2
+  location_y: -4
+  element: Cobaltite
+  temperature: 45.1731415
+  connections: 3
+- id: LiquidConduit
+  location_x: -3
+  location_y: -4
+  element: Cobaltite
+  temperature: 44.3833084
+  connections: 3
+- id: LiquidConduit
+  location_x: -4
+  location_y: -4
+  element: Cobaltite
+  temperature: 43.4217377
+  connections: 3
+- id: LiquidConduit
+  location_x: -5
+  location_y: -4
+  element: Cobaltite
+  temperature: 42.4597321
+  connections: 3
+- id: LiquidConduit
+  location_x: -6
+  location_y: -4
+  element: Cobaltite
+  temperature: 41.4971771
+  connections: 3
+- id: LiquidConduit
+  location_x: -7
+  location_y: -4
+  element: Cobaltite
+  temperature: 40.5340729
+  connections: 3
+- id: LiquidConduit
+  location_x: -9
+  location_y: -4
+  element: Cobaltite
+  temperature: 18.5229111
+  connections: 10
+- id: LiquidConduit
+  location_x: -9
+  location_y: -5
+  element: Cobaltite
+  temperature: 18.5034771
+  connections: 5
+- id: LiquidConduit
+  location_x: -10
+  location_y: -5
+  element: Cobaltite
+  temperature: 18.3015461
+  connections: 3
+- id: LiquidConduit
+  location_x: -11
+  location_y: -5
+  element: Cobaltite
+  temperature: 18.3027992
+  connections: 3
+- id: LiquidConduit
+  location_x: -12
+  location_y: -5
+  element: Cobaltite
+  temperature: 18.3007259
+  connections: 6
+- id: LiquidConduit
+  location_x: -12
+  location_y: -4
+  element: Cobaltite
+  temperature: 18.3047733
+  connections: 12
+- id: LiquidConduit
+  location_x: 13
+  location_y: -3
+  element: Cobaltite
+  temperature: 57.608429
+  connections: 12
+- id: LiquidConduit
+  location_x: 13
+  location_y: -4
+  element: Cobaltite
+  temperature: 56.8401947
+  connections: 5
+- id: LiquidConduit
+  location_x: 1
+  location_y: 5
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 2
+- id: LiquidConduit
+  location_x: 2
+  location_y: 5
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 3
+- id: LiquidConduit
+  location_x: 3
+  location_y: 5
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 3
+- id: LiquidConduit
+  location_x: 4
+  location_y: 5
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 9
+- id: LiquidConduit
+  location_x: 4
+  location_y: 4
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 12
+- id: LiquidConduit
+  location_x: 5
+  location_y: 5
+  element: Cobaltite
+  temperature: 293.149994
+  connections: 2
+- id: LiquidConduit
+  location_x: 6
+  location_y: 5
+  element: Cobaltite
+  temperature: 368.14444
+  connections: 1
+- id: LiquidConduit
+  location_x: -12
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.5897751
+  connections: 8
+- id: LiquidConduit
+  location_x: -12
+  location_y: -2
+  element: Cobaltite
+  temperature: 18.3291626
+  connections: 12
 - id: ExteriorWall
   location_x: -14
   location_y: 5
@@ -2963,49 +3352,49 @@ buildings:
   location_x: 8
   location_y: 5
   element: IgneousRock
-  temperature: 293.107361
+  temperature: 293.107178
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 9
   location_y: 5
   element: IgneousRock
-  temperature: 293.098663
+  temperature: 293.098358
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   location_y: 5
   element: IgneousRock
-  temperature: 293.091309
+  temperature: 293.090851
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   location_y: 5
   element: IgneousRock
-  temperature: 293.09317
+  temperature: 293.037292
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   location_y: 4
   element: IgneousRock
-  temperature: 292.703278
+  temperature: 292.562683
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   location_y: 4
   element: IgneousRock
-  temperature: 292.687195
+  temperature: 292.686554
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 9
   location_y: 4
   element: IgneousRock
-  temperature: 292.782684
+  temperature: 292.782593
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 8
   location_y: 4
   element: IgneousRock
-  temperature: 292.938416
+  temperature: 292.938354
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 6
@@ -3046,19 +3435,19 @@ buildings:
 - id: ExteriorWall
   location_y: 4
   element: IgneousRock
-  temperature: 293.181824
+  temperature: 284.438141
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -1
   location_y: 4
   element: IgneousRock
-  temperature: 293.195068
+  temperature: 278.032684
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -2
   location_y: 4
   element: IgneousRock
-  temperature: 293.202057
+  temperature: 284.277435
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -9
@@ -3100,78 +3489,78 @@ buildings:
   location_x: -2
   location_y: 3
   element: IgneousRock
-  temperature: 277.63443
+  temperature: 277.647064
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -1
   location_y: 3
   element: IgneousRock
-  temperature: 277.634308
+  temperature: 277.647522
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_y: 3
   element: IgneousRock
-  temperature: 277.634308
+  temperature: 277.647125
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 1
   location_y: 3
   element: IgneousRock
-  temperature: 277.634399
+  temperature: 277.647095
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 2
   location_y: 3
   element: IgneousRock
-  temperature: 278.604919
+  temperature: 278.342255
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 3
   location_y: 3
   element: IgneousRock
-  temperature: 278.605011
+  temperature: 278.342163
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 4
   location_y: 3
   element: IgneousRock
-  temperature: 278.605194
+  temperature: 278.342529
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 5
   location_y: 3
   element: IgneousRock
-  temperature: 278.604706
+  temperature: 278.342133
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 6
   location_y: 3
   element: IgneousRock
-  temperature: 278.604919
+  temperature: 278.342072
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   location_y: 3
   element: IgneousRock
-  temperature: 291.335876
+  temperature: 291.330505
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   location_y: 3
   element: IgneousRock
-  temperature: 291.343323
+  temperature: 291.256226
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   location_y: 1
   element: IgneousRock
-  temperature: 23.9580173
+  temperature: 52.3874321
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   location_y: 1
   element: IgneousRock
-  temperature: 24.2931461
+  temperature: 45.8273392
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 6
@@ -3229,85 +3618,85 @@ buildings:
 - id: ExteriorWall
   location_x: -2
   element: IgneousRock
-  temperature: 305.585632
+  temperature: 306.135651
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -1
   element: IgneousRock
-  temperature: 305.585815
+  temperature: 306.1362
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   element: IgneousRock
-  temperature: 305.610992
+  temperature: 305.854706
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 1
   element: IgneousRock
-  temperature: 304.617676
+  temperature: 304.932556
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 2
   element: IgneousRock
-  temperature: 304.508301
+  temperature: 304.932587
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 3
   element: IgneousRock
-  temperature: 303.586395
+  temperature: 303.973999
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 4
   element: IgneousRock
-  temperature: 302.653564
+  temperature: 303.068115
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 5
   element: IgneousRock
-  temperature: 301.721832
+  temperature: 302.141266
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 6
   element: IgneousRock
-  temperature: 300.765839
+  temperature: 301.202606
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   element: IgneousRock
-  temperature: 17.5340347
+  temperature: 38.6810951
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   element: IgneousRock
-  temperature: 17.5134106
+  temperature: 36.8331375
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -12
   location_y: -1
   element: IgneousRock
-  temperature: 18.9388237
+  temperature: 18.5897751
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 10
   location_y: -1
   element: IgneousRock
-  temperature: 17.5087738
+  temperature: 18.1051426
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -12
   location_y: -2
   element: IgneousRock
-  temperature: 17.2712688
+  temperature: 18.3291626
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: 11
   location_y: -1
   element: IgneousRock
-  temperature: 17.5017929
+  temperature: 18.5872498
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -3
   element: IgneousRock
-  temperature: 306.56778
+  temperature: 307.004181
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -3
@@ -3319,7 +3708,7 @@ buildings:
   location_x: -3
   location_y: 3
   element: IgneousRock
-  temperature: 277.634247
+  temperature: 277.647491
   facadeId: ExteriorWall_basic_white
 - id: ExteriorWall
   location_x: -3
@@ -3355,14 +3744,13 @@ buildings:
   location_x: 12
   location_y: -1
   element: IgneousRock
-  temperature: 17.481781
+  temperature: 18.9888573
   facadeId: ExteriorWall_basic_white
-- id: ExteriorWall
+- id: GasPermeableMembrane
   location_x: 13
   location_y: -1
-  element: IgneousRock
-  temperature: 17.48353
-  facadeId: ExteriorWall_basic_white
+  element: Cobaltite
+  temperature: 276.77063
 - id: ExteriorWall
   location_x: -14
   location_y: 3
@@ -3399,411 +3787,11 @@ buildings:
   element: IgneousRock
   temperature: 292.311462
   facadeId: ExteriorWall_basic_white
-- id: LiquidConduit
-  location_x: -10
-  location_y: -4
-  element: Cobaltite
-  temperature: 17.2547531
-  connections: 1
-- id: LiquidConduit
-  location_x: -11
-  location_y: -4
-  element: Cobaltite
-  temperature: 17.2991638
-  connections: 6
-- id: LiquidConduit
-  location_x: -11
-  location_y: -3
-  element: Cobaltite
-  temperature: 17.2615089
-  connections: 8
-- id: LiquidConduit
-  location_x: -12
-  location_y: -3
-  element: Cobaltite
-  temperature: 17.3579082
-  connections: 8
-- id: LiquidConduit
-  location_x: -10
-  location_y: -3
-  element: Cobaltite
-  temperature: 17.2576714
-  connections: 2
-- id: LiquidConduit
-  location_x: -9
-  location_y: -3
-  element: Cobaltite
-  temperature: 17.257473
-  connections: 3
-- id: LiquidConduit
-  location_x: -7
-  location_y: -3
-  element: Cobaltite
-  temperature: 30.3925858
-  connections: 3
-- id: LiquidConduit
-  location_x: -6
-  location_y: -3
-  element: Cobaltite
-  temperature: 31.3413429
-  connections: 3
-- id: LiquidConduit
-  location_x: -5
-  location_y: -3
-  element: Cobaltite
-  temperature: 32.2903519
-  connections: 3
-- id: LiquidConduit
-  location_x: -4
-  location_y: -3
-  element: Cobaltite
-  temperature: 33.2400856
-  connections: 3
-- id: LiquidConduit
-  location_x: -3
-  location_y: -3
-  element: Cobaltite
-  temperature: 34.1909218
-  connections: 3
-- id: LiquidConduit
-  location_x: -2
-  location_y: -3
-  element: Cobaltite
-  temperature: 35.1431503
-  connections: 3
-- id: LiquidConduit
-  location_x: -1
-  location_y: -3
-  element: Cobaltite
-  temperature: 36.0969849
-  connections: 3
-- id: LiquidConduit
-  location_y: -3
-  element: Cobaltite
-  temperature: 37.0525284
-  connections: 3
-- id: LiquidConduit
-  location_x: 1
-  location_y: -3
-  element: Cobaltite
-  temperature: 38.009758
-  connections: 3
-- id: LiquidConduit
-  location_x: 2
-  location_y: -3
-  element: Cobaltite
-  temperature: 38.9684334
-  connections: 3
-- id: LiquidConduit
-  location_x: 3
-  location_y: -3
-  element: Cobaltite
-  temperature: 39.9280853
-  connections: 3
-- id: LiquidConduit
-  location_x: 4
-  location_y: -3
-  element: Cobaltite
-  temperature: 40.8878632
-  connections: 3
-- id: LiquidConduit
-  location_x: 5
-  location_y: -3
-  element: Cobaltite
-  temperature: 41.6757965
-  connections: 3
-- id: LiquidConduit
-  location_x: 6
-  location_y: -3
-  element: Cobaltite
-  temperature: 42.8031082
-  connections: 3
-- id: LiquidConduit
-  location_x: 7
-  location_y: -3
-  element: Cobaltite
-  temperature: 43.5861511
-  connections: 3
-- id: LiquidConduit
-  location_x: 8
-  location_y: -3
-  element: Cobaltite
-  temperature: 44.7063217
-  connections: 3
-- id: LiquidConduit
-  location_x: 9
-  location_y: -3
-  element: Cobaltite
-  temperature: 45.4885483
-  connections: 3
-- id: LiquidConduit
-  location_x: 10
-  location_y: -3
-  element: Cobaltite
-  temperature: 46.6253891
-  connections: 3
-- id: LiquidConduit
-  location_x: 11
-  location_y: -3
-  element: Cobaltite
-  temperature: 47.7916756
-  connections: 3
-- id: LiquidConduit
-  location_x: 12
-  location_y: -3
-  element: Cobaltite
-  temperature: 48.5809212
-  connections: 5
-- id: LiquidConduit
-  location_x: 12
-  location_y: -4
-  element: Cobaltite
-  temperature: 48.1086655
-  connections: 3
-- id: LiquidConduit
-  location_x: 11
-  location_y: -4
-  element: Cobaltite
-  temperature: 46.8891678
-  connections: 3
-- id: LiquidConduit
-  location_x: 10
-  location_y: -4
-  element: Cobaltite
-  temperature: 46.0986099
-  connections: 3
-- id: LiquidConduit
-  location_x: 9
-  location_y: -4
-  element: Cobaltite
-  temperature: 44.9579506
-  connections: 3
-- id: LiquidConduit
-  location_x: 8
-  location_y: -4
-  element: Cobaltite
-  temperature: 43.9834099
-  connections: 3
-- id: LiquidConduit
-  location_x: 7
-  location_y: -4
-  element: Cobaltite
-  temperature: 43.0122108
-  connections: 3
-- id: LiquidConduit
-  location_x: 6
-  location_y: -4
-  element: Cobaltite
-  temperature: 42.0465126
-  connections: 3
-- id: LiquidConduit
-  location_x: 5
-  location_y: -4
-  element: Cobaltite
-  temperature: 41.0840149
-  connections: 3
-- id: LiquidConduit
-  location_x: 4
-  location_y: -4
-  element: Cobaltite
-  temperature: 40.1224976
-  connections: 3
-- id: LiquidConduit
-  location_x: 3
-  location_y: -4
-  element: Cobaltite
-  temperature: 39.1611252
-  connections: 3
-- id: LiquidConduit
-  location_x: 2
-  location_y: -4
-  element: Cobaltite
-  temperature: 38.1998138
-  connections: 3
-- id: LiquidConduit
-  location_x: 1
-  location_y: -4
-  element: Cobaltite
-  temperature: 37.2387238
-  connections: 3
-- id: LiquidConduit
-  location_y: -4
-  element: Cobaltite
-  temperature: 36.2781067
-  connections: 3
-- id: LiquidConduit
-  location_x: -1
-  location_y: -4
-  element: Cobaltite
-  temperature: 35.3181992
-  connections: 3
-- id: LiquidConduit
-  location_x: -2
-  location_y: -4
-  element: Cobaltite
-  temperature: 34.3590889
-  connections: 3
-- id: LiquidConduit
-  location_x: -3
-  location_y: -4
-  element: Cobaltite
-  temperature: 33.400692
-  connections: 3
-- id: LiquidConduit
-  location_x: -4
-  location_y: -4
-  element: Cobaltite
-  temperature: 32.4427872
-  connections: 3
-- id: LiquidConduit
-  location_x: -5
-  location_y: -4
-  element: Cobaltite
-  temperature: 31.4851093
-  connections: 3
-- id: LiquidConduit
-  location_x: -6
-  location_y: -4
-  element: Cobaltite
-  temperature: 30.5274239
-  connections: 3
-- id: LiquidConduit
-  location_x: -7
-  location_y: -4
-  element: Cobaltite
-  temperature: 29.5695496
-  connections: 3
-- id: LiquidConduit
-  location_x: -9
-  location_y: -4
-  element: Cobaltite
-  temperature: 24.7706337
-  connections: 10
-- id: LiquidConduit
-  location_x: -9
-  location_y: -5
-  element: Cobaltite
-  temperature: 24.5761261
-  connections: 5
-- id: LiquidConduit
-  location_x: -10
-  location_y: -5
-  element: Cobaltite
-  temperature: 17.2420883
-  connections: 3
-- id: LiquidConduit
-  location_x: -11
-  location_y: -5
-  element: Cobaltite
-  temperature: 17.2422047
-  connections: 3
-- id: LiquidConduit
-  location_x: -12
-  location_y: -5
-  element: Cobaltite
-  temperature: 17.2152805
-  connections: 6
-- id: LiquidConduit
-  location_x: -12
-  location_y: -4
-  element: Cobaltite
-  temperature: 17.2389832
-  connections: 12
-- id: LiquidConduit
-  location_x: 13
-  location_y: -3
-  element: Cobaltite
-  temperature: 49.7211456
-  connections: 12
-- id: LiquidConduit
-  location_x: 13
-  location_y: -4
-  element: Cobaltite
-  temperature: 48.729538
-  connections: 5
-- id: LiquidConduit
-  location_x: 1
-  location_y: 5
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 2
-- id: LiquidConduit
-  location_x: 2
-  location_y: 5
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 3
-- id: LiquidConduit
-  location_x: 3
-  location_y: 5
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 3
-- id: LiquidConduit
-  location_x: 4
-  location_y: 5
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 9
-- id: LiquidConduit
-  location_x: 4
-  location_y: 4
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 12
-- id: LiquidConduit
-  location_x: 5
-  location_y: 5
-  element: Cobaltite
-  temperature: 293.149994
-  connections: 2
-- id: LiquidConduit
-  location_x: 6
-  location_y: 5
-  element: Cobaltite
-  temperature: 368.14444
-  connections: 1
-- id: SolidConduit
-  location_x: -10
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2468338
-  connections: 3
-- id: SolidConduit
-  location_x: -9
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2466087
-  connections: 3
-- id: SolidConduit
-  location_x: -8
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2467232
-  connections: 3
-- id: SolidConduit
-  location_x: -7
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2465858
-  connections: 3
-- id: SolidConduit
-  location_x: -6
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2464581
-  connections: 1
-- id: SolidConduit
-  location_x: -11
-  location_y: -1
-  element: Cobaltite
-  temperature: 16.2468758
-  connections: 2
 - id: InsulatedGasConduit
   location_x: -7
   location_y: 2
   element: IgneousRock
-  temperature: 16.2464352
+  temperature: 18.5473461
   connections: 12
 - id: InsulatedGasConduit
   location_x: -7
@@ -3815,7 +3803,7 @@ buildings:
   location_x: -6
   location_y: 2
   element: IgneousRock
-  temperature: 16.2464352
+  temperature: 18.5473461
   connections: 12
 - id: InsulatedGasConduit
   location_x: -6
@@ -3827,13 +3815,13 @@ buildings:
   location_x: -7
   location_y: 3
   element: IgneousRock
-  temperature: 282.07547
+  temperature: 281.737335
   connections: 12
 - id: InsulatedGasConduit
   location_x: -6
   location_y: 3
   element: IgneousRock
-  temperature: 282.02597
+  temperature: 281.687836
   connections: 10
 - id: InsulatedGasConduit
   location_x: -7
@@ -3917,459 +3905,27 @@ buildings:
   location_x: -4
   location_y: 3
   element: IgneousRock
-  temperature: 282.127136
+  temperature: 281.789001
   connections: 5
 - id: InsulatedGasConduit
   location_x: -5
   location_y: 3
   element: IgneousRock
-  temperature: 282.076904
+  temperature: 281.73877
   connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -8
-  location_y: -3
-  element: IgneousRock
-  temperature: 81.830574
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -8
-  location_y: -4
-  element: IgneousRock
-  temperature: 284.196503
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: 12
-  location_y: -2
-  element: Ceramic
-  temperature: 30.7425232
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 12
-  location_y: -1
-  element: Ceramic
-  temperature: 17.4815826
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 12
-  element: Ceramic
-  temperature: 17.4008827
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 12
-  location_y: 1
-  element: Ceramic
-  temperature: 18.7892113
-  connections: 10
-- id: InsulatedLiquidConduit
-  location_x: 13
-  location_y: 1
-  element: Ceramic
-  temperature: 23.6074219
-  connections: 9
-- id: InsulatedLiquidConduit
-  location_x: 13
-  element: Ceramic
-  temperature: 17.3850098
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 13
-  location_y: -1
-  element: Ceramic
-  temperature: 17.4833298
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 13
-  location_y: -2
-  element: Ceramic
-  temperature: 113.543915
-  connections: 12
-- id: InsulatedLiquidConduit
-  element: IgneousRock
-  temperature: 312.254913
-  connections: 6
-- id: InsulatedLiquidConduit
-  location_x: 1
-  element: IgneousRock
-  temperature: 311.549164
-  connections: 5
-- id: InsulatedLiquidConduit
-  location_x: 1
-  location_y: 1
-  element: IgneousRock
-  temperature: 394.199738
-  connections: 8
-- id: InsulatedLiquidConduit
-  location_x: 2
-  element: IgneousRock
-  temperature: 311.370972
-  connections: 2
-- id: InsulatedLiquidConduit
-  location_x: 3
-  element: IgneousRock
-  temperature: 310.357422
-  connections: 5
-- id: InsulatedLiquidConduit
-  location_x: 3
-  location_y: 1
-  element: IgneousRock
-  temperature: 390.82135
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_y: 1
-  element: IgneousRock
-  temperature: 396.013794
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 3
-  location_y: 2
-  element: IgneousRock
-  temperature: 272.046661
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_y: 2
-  element: IgneousRock
-  temperature: 271.145966
-  connections: 9
-- id: InsulatedLiquidConduit
-  location_x: -3
-  location_y: 2
-  element: IgneousRock
-  temperature: 271.148743
-  connections: 6
-- id: InsulatedLiquidConduit
-  location_x: -2
-  location_y: 2
-  element: IgneousRock
-  temperature: 271.148712
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -1
-  location_y: 2
-  element: IgneousRock
-  temperature: 271.148132
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -3
-  element: IgneousRock
-  temperature: 313.576355
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -2
-  element: IgneousRock
-  temperature: 312.676819
-  connections: 5
-- id: InsulatedLiquidConduit
-  location_x: -2
-  location_y: 1
-  element: IgneousRock
-  temperature: 397.382355
-  connections: 8
-- id: InsulatedLiquidConduit
-  location_x: -1
-  element: IgneousRock
-  temperature: 312.467163
-  connections: 8
-- id: InsulatedLiquidConduit
-  location_x: -1
-  location_y: -1
-  element: IgneousRock
-  temperature: 304.598755
-  connections: 5
-- id: InsulatedLiquidConduit
-  location_x: -2
-  location_y: -1
-  element: IgneousRock
-  temperature: 305.486542
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -3
-  location_y: -1
-  element: IgneousRock
-  temperature: 305.57019
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -4
-  location_y: -1
-  element: IgneousRock
-  temperature: 25.6484032
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -11
-  location_y: 2
-  element: IgneousRock
-  temperature: 24.8646317
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: -11
-  location_y: 3
-  element: IgneousRock
-  temperature: 17.2965527
-  connections: 10
-- id: InsulatedLiquidConduit
-  location_x: -10
-  location_y: 3
-  element: IgneousRock
-  temperature: 17.2974014
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -9
-  location_y: 3
-  element: IgneousRock
-  temperature: 17.2969265
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -8
-  location_y: 3
-  element: IgneousRock
-  temperature: 24.8842812
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -7
-  location_y: 3
-  element: IgneousRock
-  temperature: 38.7807312
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -6
-  location_y: 3
-  element: IgneousRock
-  temperature: 38.7485962
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -5
-  location_y: 3
-  element: IgneousRock
-  temperature: 38.7264748
-  connections: 3
-- id: InsulatedLiquidConduit
-  location_x: -4
-  location_y: 3
-  element: IgneousRock
-  temperature: 43.2021332
-  connections: 9
-- id: InsulatedLiquidConduit
-  location_x: -4
-  location_y: 2
-  element: IgneousRock
-  temperature: 29.9321442
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: -4
-  location_y: 1
-  element: IgneousRock
-  temperature: 118.24617
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: -4
-  element: IgneousRock
-  temperature: 118.248894
-  connections: 6
-- id: InsulatedLiquidConduit
-  location_x: -8
-  location_y: 6
-  element: IgneousRock
-  temperature: 265.664093
-  connections: 2
-- id: InsulatedLiquidConduit
-  location_x: -7
-  location_y: 6
-  element: IgneousRock
-  temperature: 265.972504
-  connections: 9
-- id: InsulatedLiquidConduit
-  location_x: -7
-  location_y: 5
-  element: IgneousRock
-  temperature: 266.020844
-  connections: 4
-- id: InsulatedLiquidConduit
-  location_x: 4
-  location_y: 3
-  element: IgneousRock
-  temperature: 278.613495
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 4
-  location_y: 2
-  element: IgneousRock
-  temperature: 358.313782
-  connections: 12
-- id: InsulatedLiquidConduit
-  location_x: 4
-  location_y: 1
-  element: IgneousRock
-  temperature: 391.256561
-  connections: 4
-- id: LiquidConditioner
-  location_x: -2
-  element: Steel
-  temperature: 305.586487
-- id: LiquidConditioner
-  location_x: 1
-  element: Steel
-  temperature: 304.551544
-- id: LiquidConduitBridge
-  location_x: 2
-  location_y: 1
-  element: IgneousRock
-  temperature: 300.424561
-- id: LiquidConduitBridge
-  location_x: -2
-  element: IgneousRock
-  temperature: 305.539673
-  rotationOrientation: R90
-- id: LiquidConduitBridge
-  location_x: 4
-  location_y: 5
-  element: IgneousRock
-  temperature: 293.149994
-  rotationOrientation: R180
-- id: DevGenerator
-  location_x: 8
-  location_y: 6
-  element: Steel
-  temperature: 293.149994
-- id: DevGenerator
-  location_x: -12
-  location_y: 4
-  element: Steel
-  temperature: 293.235504
-- id: WireRefined
-  location_x: -12
-  location_y: 4
-  element: Cobalt
-  temperature: 293.163177
-  connections: 10
-- id: WireRefined
-  location_x: -12
-  location_y: 3
-  element: Cobalt
-  temperature: 293.139374
-  connections: 12
-- id: WireRefined
-  location_x: -12
-  location_y: 2
-  element: Cobalt
-  temperature: 265.125824
-  connections: 12
-- id: WireRefined
-  location_x: -12
-  location_y: 1
-  element: Cobalt
-  temperature: 16.2484093
-  connections: 12
-- id: WireRefined
-  location_x: -12
-  element: Cobalt
-  temperature: 17.1314335
-  connections: 5
-- id: WireRefined
-  location_x: -13
-  element: Cobalt
-  temperature: 17.5336018
-  connections: 10
-- id: WireRefined
-  location_x: -13
-  location_y: -1
-  element: Cobalt
-  temperature: 45.7325287
-  connections: 12
-- id: WireRefined
-  location_x: -13
-  location_y: -2
-  element: Cobalt
-  temperature: 23.993103
-  connections: 12
-- id: WireRefined
-  location_x: -13
-  location_y: -3
-  element: Cobalt
-  temperature: 24.2985878
-  connections: 12
-- id: WireRefined
-  location_x: -13
-  location_y: -4
-  element: Cobalt
-  temperature: 24.3197613
-  connections: 6
-- id: WireRefined
-  location_x: -12
-  location_y: -4
-  element: Cobalt
-  temperature: 17.2389793
-  connections: 3
-- id: WireRefined
-  location_x: -11
-  location_y: -4
-  element: Cobalt
-  temperature: 17.2488499
-  connections: 3
-- id: WireRefined
-  location_x: -10
-  location_y: -4
-  element: Cobalt
-  temperature: 17.2484417
-  connections: 5
-- id: WireRefined
-  location_x: -10
-  location_y: -3
-  element: Cobalt
-  temperature: 17.3530788
-  connections: 8
-- id: WireRefined
-  location_x: -6
-  location_y: 4
-  element: Cobalt
-  temperature: 293.273163
-  connections: 1
-- id: WireRefined
-  location_x: -7
-  location_y: 4
-  element: Cobalt
-  temperature: 293.236511
-  connections: 3
-- id: WireRefined
-  location_x: -8
-  location_y: 4
-  element: Cobalt
-  temperature: 292.987457
-  connections: 3
-- id: WireRefined
-  location_x: -9
-  location_y: 4
-  element: Cobalt
-  temperature: 293.145386
-  connections: 3
-- id: WireRefined
-  location_x: -10
-  location_y: 4
-  element: Cobalt
-  temperature: 293.161011
-  connections: 3
-- id: WireRefined
-  location_x: -11
-  location_y: 4
-  element: Cobalt
-  temperature: 293.14798
-  connections: 3
-- id: LiquidPump
-  location_x: -11
-  location_y: -5
-  element: IronOre
-  temperature: 17.2809563
 - id: LogicWire
   element: Iron
-  temperature: 305.613434
+  temperature: 305.854706
   connections: 2
 - id: LogicWire
   location_x: 1
   element: Iron
-  temperature: 304.617828
+  temperature: 304.932556
   connections: 3
 - id: LogicWire
   location_x: 2
   element: Iron
-  temperature: 304.48877
+  temperature: 304.932587
   connections: 5
 - id: LogicWire
   location_x: 2
@@ -4380,17 +3936,17 @@ buildings:
 - id: LogicWire
   location_x: -3
   element: Iron
-  temperature: 306.570313
+  temperature: 307.004059
   connections: 2
 - id: LogicWire
   location_x: -2
   element: Iron
-  temperature: 305.587708
+  temperature: 306.135529
   connections: 3
 - id: LogicWire
   location_x: -1
   element: Iron
-  temperature: 305.588196
+  temperature: 306.1362
   connections: 5
 - id: LogicWire
   location_x: -1
@@ -4402,43 +3958,43 @@ buildings:
   location_x: -11
   location_y: -3
   element: Iron
-  temperature: 17.3547363
+  temperature: 18.3050327
   connections: 2
 - id: LogicWire
   location_x: -12
   location_y: -5
   element: Iron
-  temperature: 17.2129726
+  temperature: 18.3007259
   connections: 2
 - id: LogicWire
   location_x: -11
   location_y: -5
   element: Iron
-  temperature: 17.2422047
+  temperature: 18.3027992
   connections: 1
 - id: LogicWire
   location_x: -10
   location_y: -5
   element: Iron
-  temperature: 17.242054
+  temperature: 18.3015461
   connections: 4
 - id: LogicWire
   location_x: -10
   location_y: -4
   element: Iron
-  temperature: 17.248373
+  temperature: 18.3031483
   connections: 8
 - id: LogicWire
   location_x: -10
   location_y: -3
   element: Iron
-  temperature: 17.3531399
+  temperature: 18.3032932
   connections: 1
 - id: LogicWire
   location_x: -12
   location_y: -2
   element: Iron
-  temperature: 17.2719669
+  temperature: 18.3291626
   connections: 2
 - id: LogicWire
   location_x: -11
@@ -4486,30 +4042,30 @@ buildings:
   location_x: -5
   location_y: -1
   element: Iron
-  temperature: 16.2464905
+  temperature: 18.5474091
   connections: 12
 - id: LogicWire
   location_x: -5
   element: Iron
-  temperature: 16.2468948
+  temperature: 18.5478153
   connections: 12
 - id: LogicWire
   location_x: -5
   location_y: 1
   element: Iron
-  temperature: 16.2468948
+  temperature: 18.5478153
   connections: 12
 - id: LogicWire
   location_x: -5
   location_y: 2
   element: Iron
-  temperature: 16.2467365
+  temperature: 18.547617
   connections: 12
 - id: LogicWire
   location_x: -5
   location_y: 3
   element: Iron
-  temperature: 80.0825043
+  temperature: 80.072731
   connections: 12
 - id: LogicWire
   location_x: -5
@@ -4539,111 +4095,507 @@ buildings:
   location_x: -12
   location_y: 1
   element: Iron
-  temperature: 16.2484093
+  temperature: 18.5467129
   connections: 2
 - id: LogicWire
   location_x: -11
   location_y: -4
   element: Iron
-  temperature: 17.248764
+  temperature: 18.3042183
   connections: 1
 - id: LogicWire
   location_x: -12
   location_y: -4
   element: Iron
-  temperature: 17.2389774
+  temperature: 18.3047714
   connections: 2
 - id: LogicWire
   location_x: -13
   location_y: 1
   element: Iron
-  temperature: 16.2683182
+  temperature: 18.5462303
   connections: 8
 - id: LogicWire
   location_x: -13
   element: Iron
-  temperature: 17.5336018
+  temperature: 18.5889721
   connections: 4
 - id: LogicWire
   location_x: -11
   element: Iron
-  temperature: 16.1754055
+  temperature: 18.5604095
   connections: 4
 - id: LogicWire
   location_x: -11
   location_y: 1
   element: Iron
-  temperature: 16.2468796
+  temperature: 18.5467606
   connections: 9
+- id: WireRefined
+  location_x: -12
+  location_y: 4
+  element: Cobalt
+  temperature: 293.163177
+  connections: 10
+- id: WireRefined
+  location_x: -12
+  location_y: 3
+  element: Cobalt
+  temperature: 293.139374
+  connections: 12
+- id: WireRefined
+  location_x: -12
+  location_y: 2
+  element: Cobalt
+  temperature: 265.125824
+  connections: 12
+- id: WireRefined
+  location_x: -12
+  location_y: 1
+  element: Cobalt
+  temperature: 18.5467129
+  connections: 12
+- id: WireRefined
+  location_x: -12
+  element: Cobalt
+  temperature: 18.5897102
+  connections: 5
+- id: WireRefined
+  location_x: -13
+  element: Cobalt
+  temperature: 18.5889759
+  connections: 10
+- id: WireRefined
+  location_x: -13
+  location_y: -1
+  element: Cobalt
+  temperature: 45.7325287
+  connections: 12
+- id: WireRefined
+  location_x: -13
+  location_y: -2
+  element: Cobalt
+  temperature: 23.993103
+  connections: 12
+- id: WireRefined
+  location_x: -13
+  location_y: -3
+  element: Cobalt
+  temperature: 18.4941578
+  connections: 12
+- id: WireRefined
+  location_x: -13
+  location_y: -4
+  element: Cobalt
+  temperature: 18.4880562
+  connections: 6
+- id: WireRefined
+  location_x: -12
+  location_y: -4
+  element: Cobalt
+  temperature: 18.3047714
+  connections: 3
+- id: WireRefined
+  location_x: -11
+  location_y: -4
+  element: Cobalt
+  temperature: 18.3042183
+  connections: 3
+- id: WireRefined
+  location_x: -10
+  location_y: -4
+  element: Cobalt
+  temperature: 18.3031483
+  connections: 5
+- id: WireRefined
+  location_x: -10
+  location_y: -3
+  element: Cobalt
+  temperature: 18.3032932
+  connections: 8
+- id: WireRefined
+  location_x: -6
+  location_y: 4
+  element: Cobalt
+  temperature: 293.273163
+  connections: 1
+- id: WireRefined
+  location_x: -7
+  location_y: 4
+  element: Cobalt
+  temperature: 293.236511
+  connections: 3
+- id: WireRefined
+  location_x: -8
+  location_y: 4
+  element: Cobalt
+  temperature: 292.987457
+  connections: 3
+- id: WireRefined
+  location_x: -9
+  location_y: 4
+  element: Cobalt
+  temperature: 293.145386
+  connections: 3
+- id: WireRefined
+  location_x: -10
+  location_y: 4
+  element: Cobalt
+  temperature: 293.161011
+  connections: 3
+- id: WireRefined
+  location_x: -11
+  location_y: 4
+  element: Cobalt
+  temperature: 293.14798
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -8
+  location_y: -3
+  element: IgneousRock
+  temperature: 81.8206558
+  connections: 3
+- id: InsulationTile
+  location_x: 8
+  element: IgneousRock
+  temperature: 293.075165
+- id: InsulatedLiquidConduit
+  location_x: 12
+  location_y: -2
+  element: Ceramic
+  temperature: 31.1121864
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 12
+  location_y: -1
+  element: Ceramic
+  temperature: 19.5535507
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 12
+  element: Ceramic
+  temperature: 17.8589401
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 12
+  location_y: 1
+  element: Ceramic
+  temperature: 19.2899265
+  connections: 10
+- id: InsulatedLiquidConduit
+  location_x: 13
+  location_y: 1
+  element: Ceramic
+  temperature: 23.7320042
+  connections: 9
+- id: InsulatedLiquidConduit
+  location_x: 13
+  element: Ceramic
+  temperature: 17.8013668
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 13
+  location_y: -1
+  element: Ceramic
+  temperature: 17.7480125
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 13
+  location_y: -2
+  element: Ceramic
+  temperature: 95.3306961
+  connections: 12
+- id: InsulatedLiquidConduit
+  element: IgneousRock
+  temperature: 305.858704
+  connections: 6
+- id: InsulatedLiquidConduit
+  location_x: 1
+  element: IgneousRock
+  temperature: 304.936554
+  connections: 5
+- id: InsulatedLiquidConduit
+  location_x: 1
+  location_y: 1
+  element: IgneousRock
+  temperature: 394.199738
+  connections: 8
+- id: InsulatedLiquidConduit
+  location_x: 2
+  element: IgneousRock
+  temperature: 304.936584
+  connections: 2
+- id: InsulatedLiquidConduit
+  location_x: 3
+  element: IgneousRock
+  temperature: 303.977997
+  connections: 5
+- id: InsulatedLiquidConduit
+  location_x: 3
+  location_y: 1
+  element: IgneousRock
+  temperature: 390.82135
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_y: 1
+  element: IgneousRock
+  temperature: 396.013794
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 3
+  location_y: 2
+  element: IgneousRock
+  temperature: 272.114288
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_y: 2
+  element: IgneousRock
+  temperature: 271.213593
+  connections: 9
+- id: InsulatedLiquidConduit
+  location_x: -3
+  location_y: 2
+  element: IgneousRock
+  temperature: 271.21637
+  connections: 6
+- id: InsulatedLiquidConduit
+  location_x: -2
+  location_y: 2
+  element: IgneousRock
+  temperature: 271.216339
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -1
+  location_y: 2
+  element: IgneousRock
+  temperature: 271.215759
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -3
+  element: IgneousRock
+  temperature: 307.008057
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -2
+  element: IgneousRock
+  temperature: 306.139526
+  connections: 5
+- id: InsulatedLiquidConduit
+  location_x: -2
+  location_y: 1
+  element: IgneousRock
+  temperature: 397.382355
+  connections: 8
+- id: InsulatedLiquidConduit
+  location_x: -1
+  element: IgneousRock
+  temperature: 306.140198
+  connections: 8
+- id: InsulatedLiquidConduit
+  location_x: -1
+  location_y: -1
+  element: IgneousRock
+  temperature: 305.147919
+  connections: 5
+- id: InsulatedLiquidConduit
+  location_x: -2
+  location_y: -1
+  element: IgneousRock
+  temperature: 306.134949
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -3
+  location_y: -1
+  element: IgneousRock
+  temperature: 306.01001
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -4
+  location_y: -1
+  element: IgneousRock
+  temperature: 26.004694
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -11
+  location_y: 2
+  element: IgneousRock
+  temperature: 24.9829788
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: -11
+  location_y: 3
+  element: IgneousRock
+  temperature: 17.2965527
+  connections: 10
+- id: InsulatedLiquidConduit
+  location_x: -10
+  location_y: 3
+  element: IgneousRock
+  temperature: 17.2974014
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -9
+  location_y: 3
+  element: IgneousRock
+  temperature: 17.2969265
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -8
+  location_y: 3
+  element: IgneousRock
+  temperature: 25.0026283
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -7
+  location_y: 3
+  element: IgneousRock
+  temperature: 39.1357727
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -6
+  location_y: 3
+  element: IgneousRock
+  temperature: 39.1022263
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -5
+  location_y: 3
+  element: IgneousRock
+  temperature: 39.0770187
+  connections: 3
+- id: InsulatedLiquidConduit
+  location_x: -4
+  location_y: 3
+  element: IgneousRock
+  temperature: 43.633255
+  connections: 9
+- id: InsulatedLiquidConduit
+  location_x: -4
+  location_y: 2
+  element: IgneousRock
+  temperature: 30.135025
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: -4
+  location_y: 1
+  element: IgneousRock
+  temperature: 119.921638
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: -4
+  element: IgneousRock
+  temperature: 119.920662
+  connections: 6
+- id: InsulatedLiquidConduit
+  location_x: -8
+  location_y: 6
+  element: IgneousRock
+  temperature: 266.230804
+  connections: 2
+- id: InsulatedLiquidConduit
+  location_x: -7
+  location_y: 6
+  element: IgneousRock
+  temperature: 265.972504
+  connections: 9
+- id: InsulatedLiquidConduit
+  location_x: -7
+  location_y: 5
+  element: IgneousRock
+  temperature: 266.020844
+  connections: 4
+- id: InsulatedLiquidConduit
+  location_x: 4
+  location_y: 3
+  element: IgneousRock
+  temperature: 278.35083
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 4
+  location_y: 2
+  element: IgneousRock
+  temperature: 358.178528
+  connections: 12
+- id: InsulatedLiquidConduit
+  location_x: 4
+  location_y: 1
+  element: IgneousRock
+  temperature: 391.256561
+  connections: 4
+- id: PressureDoor
+  location_x: -13
+  element: Steel
+  temperature: 18.5886765
+  rotationOrientation: R90
 - id: LiquidConduitRadiant
   location_x: 3
   location_y: 3
   element: Iron
-  temperature: 278.604858
+  temperature: 278.34201
   connections: 9
 - id: LiquidConduitRadiant
   location_x: 2
   location_y: 3
   element: Iron
-  temperature: 278.604797
+  temperature: 278.342102
   connections: 3
 - id: LiquidConduitRadiant
   location_x: 1
   location_y: 3
   element: Iron
-  temperature: 277.634247
+  temperature: 277.646851
   connections: 3
 - id: LiquidConduitRadiant
   location_y: 3
   element: Iron
-  temperature: 277.634125
+  temperature: 277.646912
   connections: 3
 - id: LiquidConduitRadiant
   location_x: -1
   location_y: 3
   element: Iron
-  temperature: 277.634155
+  temperature: 277.647339
   connections: 3
 - id: LiquidConduitRadiant
   location_x: -2
   location_y: 3
   element: Iron
-  temperature: 277.634216
+  temperature: 277.646851
   connections: 3
 - id: LiquidConduitRadiant
   location_x: -3
   location_y: 3
   element: Iron
-  temperature: 277.634033
+  temperature: 277.647247
   connections: 10
 - id: LiquidConduitRadiant
   location_x: -5
   location_y: -1
   element: Aluminum
-  temperature: 16.2464867
+  temperature: 18.5474072
   connections: 6
 - id: LiquidConduitRadiant
   location_x: -5
   element: Aluminum
-  temperature: 16.246891
+  temperature: 18.5478134
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -5
   location_y: 1
   element: Aluminum
-  temperature: 16.246891
+  temperature: 18.5478134
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -5
   location_y: 2
   element: Aluminum
-  temperature: 16.2467327
+  temperature: 18.5476151
   connections: 9
 - id: LiquidConduitRadiant
   location_x: -6
   location_y: 2
   element: Aluminum
-  temperature: 16.2464409
+  temperature: 18.547348
   connections: 10
 - id: LiquidConduitRadiant
   location_x: -6
@@ -4654,24 +4606,24 @@ buildings:
 - id: LiquidConduitRadiant
   location_x: -6
   element: Aluminum
-  temperature: 16.4281082
+  temperature: 18.5360184
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -6
   location_y: -1
   element: Aluminum
-  temperature: 16.2464542
+  temperature: 18.5472221
   connections: 5
 - id: LiquidConduitRadiant
   location_x: -7
   location_y: -1
   element: Aluminum
-  temperature: 16.246582
+  temperature: 18.5471115
   connections: 6
 - id: LiquidConduitRadiant
   location_x: -7
   element: Aluminum
-  temperature: 16.3099442
+  temperature: 18.5378075
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -7
@@ -4683,289 +4635,341 @@ buildings:
   location_x: -7
   location_y: 2
   element: Aluminum
-  temperature: 16.2464409
+  temperature: 18.547348
   connections: 9
 - id: LiquidConduitRadiant
   location_x: -8
   location_y: 2
   element: Aluminum
-  temperature: 16.2462921
+  temperature: 18.5472069
   connections: 10
 - id: LiquidConduitRadiant
   location_x: -8
   location_y: 1
   element: Aluminum
-  temperature: 16.246521
+  temperature: 18.5469875
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -8
   element: Aluminum
-  temperature: 16.1430168
+  temperature: 18.5420685
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -8
   location_y: -1
   element: Aluminum
-  temperature: 16.2467194
+  temperature: 18.5469551
   connections: 5
 - id: LiquidConduitRadiant
   location_x: -9
   location_y: -1
   element: Aluminum
-  temperature: 16.2466049
+  temperature: 18.546854
   connections: 6
 - id: LiquidConduitRadiant
   location_x: -9
   element: Aluminum
-  temperature: 16.1008625
+  temperature: 18.5487843
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -9
   location_y: 1
   element: Aluminum
-  temperature: 16.2466087
+  temperature: 18.546854
   connections: 9
 - id: LiquidConduitRadiant
   location_x: -10
   location_y: 1
   element: Aluminum
-  temperature: 16.2470188
+  temperature: 18.5467892
   connections: 10
 - id: LiquidConduitRadiant
   location_x: -10
   element: Aluminum
-  temperature: 16.1841373
+  temperature: 18.5569572
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -10
   location_y: -1
   element: Aluminum
-  temperature: 16.24683
+  temperature: 18.5467892
   connections: 5
 - id: LiquidConduitRadiant
   location_x: -11
   location_y: -1
   element: Aluminum
-  temperature: 16.2468719
+  temperature: 18.5467587
   connections: 6
 - id: LiquidConduitRadiant
   location_x: -11
   element: Aluminum
-  temperature: 16.2170296
+  temperature: 18.5604038
   connections: 12
 - id: LiquidConduitRadiant
   location_x: -11
   location_y: 1
   element: Aluminum
-  temperature: 16.2468758
+  temperature: 18.5467587
   connections: 12
-- id: PressureDoor
-  location_x: -13
-  element: Steel
-  temperature: 17.0333042
-  rotationOrientation: R90
-- id: LogicSwitch
-  location_x: -12
-  location_y: -4
-  element: Cobalt
-  temperature: 17.2389736
-  other_values:
-  - id: switchSetting
-    value: 1
-- id: LogicPressureSensorLiquid
-  location_x: -12
-  location_y: -5
-  element: Iron
-  temperature: 17.2129726
-- id: LogicPressureSensorLiquid
-  location_x: -12
-  location_y: -2
-  element: Iron
-  temperature: 17.2718391
 - id: SteamTurbine2
   location_x: -1
   location_y: 3
   element: Cobalt
-  temperature: 277.631561
+  temperature: 277.644806
 - id: SteamTurbine2
   location_x: 4
   location_y: 3
   element: Cobalt
-  temperature: 278.602631
-- id: DevPumpLiquid
-  location_x: -9
-  location_y: 5
-  element: Steel
-  temperature: 293.610901
+  temperature: 278.340485
+- id: LiquidPump
+  location_x: -11
+  location_y: -5
+  element: IronOre
+  temperature: 18.3028831
   storage:
-  - id: Water
-    element: Water
-    units: 10
+  - id: SuperCoolant
+    element: SuperCoolant
     isOre: true
-    temperature: 300
+    temperature: 18.3003922
     rottable: {}
-- id: LiquidVent
-  location_x: -12
-  location_y: -3
-  element: Cobaltite
-  temperature: 17.3578339
 - id: LiquidVent
   location_x: 4
   location_y: 1
   element: Cobaltite
   temperature: 300.509003
 - id: LiquidVent
-  location_x: 13
+  location_x: 12
   location_y: 1
   element: Cobaltite
-  temperature: 24.0003834
+  temperature: 163.336685
+  storage:
+  - id: SuperCoolant
+    element: SuperCoolant
+    isOre: true
+    temperature: 20.3876247
+    rottable: {}
+- id: LiquidVent
+  location_x: -12
+  location_y: -1
+  element: Cobaltite
+  temperature: 18.589777
+- id: LiquidConduitBridge
+  location_x: 2
+  location_y: 1
+  element: IgneousRock
+  temperature: 300.424561
+- id: LiquidConduitBridge
+  location_x: -2
+  element: IgneousRock
+  temperature: 306.135254
+  rotationOrientation: R90
+- id: LiquidConduitBridge
+  location_x: 4
+  location_y: 5
+  element: IgneousRock
+  temperature: 293.149994
+  rotationOrientation: R180
+- id: LiquidConditioner
+  location_x: -2
+  element: Steel
+  temperature: 306.135864
+- id: LiquidConditioner
+  location_x: 1
+  element: Steel
+  temperature: 304.932556
 - id: LiquidConduitTemperatureSensor
   element: Iron
-  temperature: 305.613434
+  temperature: 305.854706
 - id: LiquidConduitTemperatureSensor
   location_x: -3
   element: Iron
-  temperature: 306.570282
-- id: ThermalBlock
-  location_x: -10
-  location_y: -5
-  element: IgneousRock
-  temperature: 24.5580635
-- id: ThermalBlock
-  location_x: -11
-  location_y: -5
-  element: IgneousRock
-  temperature: 24.4689331
-- id: ThermalBlock
-  location_x: -12
-  location_y: -5
-  element: IgneousRock
-  temperature: 24.3880749
-- id: ThermalBlock
-  location_x: -12
-  location_y: -4
-  element: IgneousRock
-  temperature: 24.3302345
-- id: ThermalBlock
-  location_x: -10
-  location_y: -4
-  element: IgneousRock
-  temperature: 24.5904541
-- id: ThermalBlock
-  location_x: -12
-  location_y: -3
-  element: IgneousRock
-  temperature: 24.3100433
-- id: ThermalBlock
+  temperature: 307.004059
+- id: LiquidLogicValve
   location_x: -11
   location_y: -3
-  element: IgneousRock
-  temperature: 17.2468452
-- id: ThermalBlock
-  location_x: -10
-  location_y: -3
-  element: IgneousRock
-  temperature: 24.5809498
-- id: ThermalBlock
-  location_x: -6
-  location_y: 1
-  element: Aluminum
-  temperature: 16.2466526
-- id: ThermalBlock
-  location_x: -7
-  location_y: 1
-  element: Aluminum
-  temperature: 16.2464085
-- id: ThermalBlock
-  location_x: -6
-  element: Aluminum
-  temperature: 16.2466087
-- id: ThermalBlock
-  location_x: -7
-  element: Aluminum
-  temperature: 16.2465324
-- id: ThermalBlock
-  location_x: -8
-  element: Aluminum
-  temperature: 16.246563
-- id: ThermalBlock
-  location_x: -9
-  element: Aluminum
-  temperature: 16.2466774
-- id: ThermalBlock
-  location_x: -10
-  element: Aluminum
-  temperature: 16.2467613
-- id: ThermalBlock
-  location_x: -11
-  location_y: -4
-  element: Aluminum
-  temperature: 17.2391758
-- id: ThermalBlock
-  location_x: -11
-  element: Aluminum
-  temperature: 16.2471237
+  element: Gold
+  temperature: 18.3041611
+  rotationOrientation: R90
 - id: LogicTemperatureSensor
   location_x: -11
   element: Iron
-  temperature: 16.1729755
+  temperature: 18.5604019
+- id: LogicPressureSensorLiquid
+  location_x: -12
+  location_y: -5
+  element: Iron
+  temperature: 18.3007259
+- id: LogicPressureSensorLiquid
+  location_x: -12
+  location_y: -2
+  element: Iron
+  temperature: 18.3291626
 - id: LogicGateFILTER
   location_x: -11
   location_y: -5
   element: Iron
-  temperature: 17.2425842
+  temperature: 18.3019028
 - id: LogicGateFILTER
   location_x: -12
   location_y: 1
   element: Iron
-  temperature: 16.2582054
+  temperature: 18.5464706
   rotationOrientation: R180
 - id: LogicGateFILTER
   location_x: -10
   location_y: -4
   element: Iron
-  temperature: 17.2485218
+  temperature: 18.303196
   rotationOrientation: R270
+- id: ThermalBlock
+  location_x: -10
+  location_y: -5
+  element: IgneousRock
+  temperature: 18.5028286
+- id: ThermalBlock
+  location_x: -11
+  location_y: -5
+  element: IgneousRock
+  temperature: 18.4951344
+- id: ThermalBlock
+  location_x: -12
+  location_y: -5
+  element: IgneousRock
+  temperature: 18.4905815
+- id: ThermalBlock
+  location_x: -12
+  location_y: -4
+  element: IgneousRock
+  temperature: 18.4895916
+- id: ThermalBlock
+  location_x: -10
+  location_y: -4
+  element: IgneousRock
+  temperature: 18.5047607
+- id: ThermalBlock
+  location_x: -12
+  location_y: -3
+  element: IgneousRock
+  temperature: 18.4878807
+- id: ThermalBlock
+  location_x: -11
+  location_y: -3
+  element: IgneousRock
+  temperature: 18.3079071
+- id: ThermalBlock
+  location_x: -10
+  location_y: -3
+  element: IgneousRock
+  temperature: 18.5024281
+- id: ThermalBlock
+  location_x: -6
+  location_y: 1
+  element: Aluminum
+  temperature: 18.5475807
+- id: ThermalBlock
+  location_x: -7
+  location_y: 1
+  element: Aluminum
+  temperature: 18.5472374
+- id: ThermalBlock
+  location_x: -6
+  element: Aluminum
+  temperature: 18.5474434
+- id: ThermalBlock
+  location_x: -7
+  element: Aluminum
+  temperature: 18.5471058
+- id: ThermalBlock
+  location_x: -8
+  element: Aluminum
+  temperature: 18.5469761
+- id: ThermalBlock
+  location_x: -9
+  element: Aluminum
+  temperature: 18.5468884
+- id: ThermalBlock
+  location_x: -10
+  element: Aluminum
+  temperature: 18.5468102
+- id: ThermalBlock
+  location_x: -11
+  location_y: -4
+  element: Aluminum
+  temperature: 18.3034897
+- id: ThermalBlock
+  location_x: -11
+  element: Aluminum
+  temperature: 18.5467663
+- id: SolidConduitBridge
+  location_x: -10
+  element: Cobaltite
+  temperature: 18.546793
+  rotationOrientation: R90
+- id: SolidConduitBridge
+  location_x: -9
+  element: Cobaltite
+  temperature: 18.5468578
+  rotationOrientation: R90
+- id: SolidConduitBridge
+  location_x: -8
+  element: Cobaltite
+  temperature: 18.5469742
+  rotationOrientation: R90
+- id: SolidConduitBridge
+  location_x: -7
+  element: Cobaltite
+  temperature: 18.5471077
+  rotationOrientation: R90
+- id: SolidConduitBridge
+  location_x: -6
+  element: Cobaltite
+  temperature: 18.5472202
+  rotationOrientation: R90
+- id: SolidConduitBridge
+  location_x: -11
+  element: Cobaltite
+  temperature: 18.5467625
+  rotationOrientation: R90
 - id: HighWattageWire
   location_y: 3
   element: Cobaltite
-  temperature: 277.637238
+  temperature: 277.650726
   connections: 2
 - id: HighWattageWire
   location_x: 1
   location_y: 3
   element: Cobaltite
-  temperature: 277.63736
+  temperature: 277.650726
   connections: 3
 - id: HighWattageWire
   location_x: 2
   location_y: 3
   element: Cobaltite
-  temperature: 278.607239
+  temperature: 278.344543
   connections: 3
 - id: HighWattageWire
   location_x: 3
   location_y: 3
   element: Cobaltite
-  temperature: 278.6073
+  temperature: 278.344452
   connections: 3
 - id: HighWattageWire
   location_x: 4
   location_y: 3
   element: Cobaltite
-  temperature: 278.607513
+  temperature: 278.344849
   connections: 3
 - id: HighWattageWire
   location_x: 5
   location_y: 3
   element: Cobaltite
-  temperature: 278.607025
+  temperature: 278.344452
   connections: 3
 - id: HighWattageWire
   location_x: 6
   location_y: 3
   element: Cobaltite
-  temperature: 278.607239
+  temperature: 278.344391
   connections: 5
 - id: HighWattageWire
   location_x: 6
@@ -4983,13 +4987,13 @@ buildings:
   location_x: 8
   location_y: 5
   element: Cobaltite
-  temperature: 293.149994
+  temperature: 293.14975
   connections: 12
 - id: HighWattageWire
   location_x: 8
   location_y: 4
   element: Cobaltite
-  temperature: 293.149994
+  temperature: 293.149414
   connections: 4
 - id: HighWattageWire
   location_x: 8
@@ -5053,12 +5057,12 @@ buildings:
 - id: HighWattageWire
   location_x: -1
   element: Cobaltite
-  temperature: 305.588196
+  temperature: 306.1362
   connections: 4
 - id: HighWattageWire
   location_x: 2
   element: Cobaltite
-  temperature: 304.548187
+  temperature: 304.932587
   connections: 4
 - id: HighWattageWire
   location_x: 8
@@ -5066,36 +5070,41 @@ buildings:
   element: Cobaltite
   temperature: 293.149994
   connections: 8
-- id: SolidConduitBridge
-  location_x: -10
-  element: Cobaltite
-  temperature: 16.2468796
-  rotationOrientation: R90
-- id: SolidConduitBridge
+- id: DevPumpLiquid
   location_x: -9
-  element: Cobaltite
-  temperature: 16.2466221
-  rotationOrientation: R90
-- id: SolidConduitBridge
-  location_x: -8
-  element: Cobaltite
-  temperature: 16.2465763
-  rotationOrientation: R90
-- id: SolidConduitBridge
-  location_x: -7
-  element: Cobaltite
-  temperature: 16.2465115
-  rotationOrientation: R90
-- id: SolidConduitBridge
-  location_x: -6
-  element: Cobaltite
-  temperature: 16.2464428
-  rotationOrientation: R90
-- id: SolidConduitBridge
-  location_x: -11
-  element: Cobaltite
-  temperature: 16.2468872
-  rotationOrientation: R90
+  location_y: 5
+  element: Steel
+  temperature: 293.610901
+  storage:
+  - id: Water
+    element: Water
+    units: 10
+    isOre: true
+    temperature: 300
+    rottable: {}
+- id: DevGenerator
+  location_x: 8
+  location_y: 6
+  element: Steel
+  temperature: 293.149597
+- id: DevGenerator
+  location_x: -12
+  location_y: 4
+  element: Steel
+  temperature: 293.235504
+- id: LogicSwitch
+  location_x: -12
+  location_y: -4
+  element: Cobalt
+  temperature: 18.3047867
+  other_values:
+  - id: switchSetting
+    value: 1
+- id: GasValve
+  location_x: -5
+  location_y: 4
+  element: Cuprite
+  temperature: 293.385101
 - id: GasLogicValve
   location_x: -7
   location_y: 5
@@ -5120,6 +5129,12 @@ buildings:
     isOre: true
     temperature: 299.983185
     rottable: {}
+  - id: Oxygen
+    element: Oxygen
+    units: 10
+    isOre: true
+    temperature: 300
+    rottable: {}
 - id: DevPumpGas
   location_x: -6
   location_y: 7
@@ -5132,6 +5147,12 @@ buildings:
     isOre: true
     temperature: 299.983521
     rottable: {}
+  - id: Oxygen
+    element: Oxygen
+    units: 10
+    isOre: true
+    temperature: 300
+    rottable: {}
 - id: GasVentHighPressure
   location_x: -7
   location_y: 1
@@ -5142,22 +5163,37 @@ buildings:
   location_y: 1
   element: Cobalt
   temperature: 153.097519
-- id: LiquidLogicValve
-  location_x: -11
-  location_y: -3
-  element: Gold
-  temperature: 17.3530979
-  rotationOrientation: R90
-- id: GasValve
-  location_x: -5
-  location_y: 4
-  element: Cuprite
-  temperature: 293.385101
-elementalOres:
-- id: Steam
-  location_x: -1
-  location_y: 3
-  element: Steam
-  temperature: 419.252502
-  units: 0.0357805341
-  type: Ore
+- id: GasPermeableMembrane
+  location_x: 11
+  location_y: -2
+  element: Cobaltite
+  temperature: 132.616882
+- id: GasPermeableMembrane
+  location_x: 10
+  location_y: -2
+  element: Cobaltite
+  temperature: 132.812866
+- id: GasPermeableMembrane
+  location_x: 9
+  location_y: -1
+  element: Cobaltite
+  temperature: 273.034058
+- id: GasPermeableMembrane
+  location_x: 9
+  element: Cobaltite
+  temperature: 270.287811
+- id: InsulationTile
+  location_x: 14
+  element: IgneousRock
+  temperature: 289.878326
+- id: InsulationTile
+  location_x: 14
+  location_y: -1
+  element: IgneousRock
+  temperature: 281.38797
+- id: InsulatedLiquidConduit
+  location_x: -8
+  location_y: -4
+  element: Ceramic
+  temperature: 293.149994
+  connections: 3
